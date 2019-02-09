@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549738656228">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549738859188">
   <folder name="css">
     <file name="site_global.css" crc="4258344624"/>
     <file name="index.css" crc="224648715" ref="index"/>
-    <file name="master_a-master.css" crc="174814717" ref="index:school-projects"/>
+    <file name="master_a-master.css" crc="3977103445" ref="index:school-projects"/>
     <file name="school-projects.css" crc="4135500581" ref="school-projects"/>
   </folder>
   <folder name="scripts">
@@ -26,7 +26,7 @@
     <file name="50717494_967030393495705_8693288878284472320_n.jpg" crc="38754941" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="school-projects"/>
+    <file name="blank.gif" crc="4208392903" ref="school-projects:index"/>
     <file name="karpdems-crop-u889.jpg" crc="532178943" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
@@ -41,6 +41,6 @@
       <caption webpage="school-projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="125325053" seo="true" mt="1549737021077" redirect="true"/>
-  <file name="school-projects.html" crc="3924782569" seo="true" mt="1549738638769" redirect="true"/>
+  <file name="index.html" crc="148843398" seo="true" mt="1549738853242" redirect="true"/>
+  <file name="school-projects.html" crc="327991422" seo="true" mt="1549738853242" redirect="true"/>
 </manifest>
