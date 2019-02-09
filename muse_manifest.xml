@@ -1,20 +1,46 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549476999437">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549738656228">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4072873363" ref="index"/>
+    <file name="site_global.css" crc="4258344624"/>
+    <file name="index.css" crc="224648715" ref="index"/>
+    <file name="master_a-master.css" crc="174814717" ref="index:school-projects"/>
+    <file name="school-projects.css" crc="4135500581" ref="school-projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:school-projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school-projects"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:school-projects"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects"/>
+    <file name="require.js" crc="7928878" ref="index:school-projects"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:school-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school-projects"/>
+    <file name="webpro.js" crc="4059564322" ref="school-projects"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="school-projects"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="school-projects"/>
+    <file name="touchswipe.js" crc="4075097462" ref="school-projects"/>
   </folder>
   <folder name="images">
     <file name="9887656hngfvay.png" crc="83458271" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="50717494_967030393495705_8693288878284472320_n.jpg" crc="38754941" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="school-projects"/>
+    <file name="karpdems-crop-u889.jpg" crc="532178943" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="karpdems2-crop-u909.jpg" crc="99487257" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="karpdems3-crop-u929.jpg" crc="4003195574" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="school-projects"/>
+    <file name="karpdems4.jpg" crc="109599062" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4229310368" seo="true" mt="1549476815046" redirect="true"/>
+  <file name="index.html" crc="125325053" seo="true" mt="1549737021077" redirect="true"/>
+  <file name="school-projects.html" crc="3924782569" seo="true" mt="1549738638769" redirect="true"/>
 </manifest>
