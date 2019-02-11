@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549905456453">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549905927594">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
     <file name="index.css" crc="224648715" ref="index"/>
     <file name="master_a-master.css" crc="3977103445" ref="index:school-projects"/>
-    <file name="school-projects.css" crc="371697839" ref="school-projects"/>
+    <file name="school-projects.css" crc="83394795" ref="school-projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects"/>
@@ -45,5 +45,5 @@
     </file>
   </folder>
   <file name="index.html" crc="148843398" seo="true" mt="1549738853242" redirect="true"/>
-  <file name="school-projects.html" crc="4194459751" seo="true" mt="1549905434957" redirect="true"/>
+  <file name="school-projects.html" crc="3954247651" seo="true" mt="1549905918540" redirect="true"/>
 </manifest>
