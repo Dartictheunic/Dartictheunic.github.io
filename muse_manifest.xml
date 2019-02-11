@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549905927594">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549907673677">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="224648715" ref="index"/>
+    <file name="index.css" crc="3903475439" ref="index"/>
     <file name="master_a-master.css" crc="3977103445" ref="index:school-projects"/>
-    <file name="school-projects.css" crc="83394795" ref="school-projects"/>
+    <file name="school-projects.css" crc="286411061" ref="school-projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects"/>
@@ -30,7 +30,7 @@
     <file name="karpdems-crop-u889.jpg" crc="3810979351" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="karpdems2-crop-u909.jpg" crc="4250898124" seo="true" ref="school-projects">
+    <file name="karpdems2-crop-u909.jpg" crc="4272943557" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
     <file name="karpdems3-crop-u929.jpg" crc="3794190384" seo="true" ref="school-projects">
@@ -43,7 +43,22 @@
     <file name="affiche selva.jpg" crc="373284176" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
+    <file name="the forest stomach.jpg" crc="187143497" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="the-forest-stomach-64 (1)504x504.png" crc="3939089621" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="i-mortsilencieuse (1).png" crc="3768979444" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="jungle2 (1).png" crc="127740711" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="sprite amalia (1).png" crc="195103376" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="148843398" seo="true" mt="1549738853242" redirect="true"/>
-  <file name="school-projects.html" crc="3954247651" seo="true" mt="1549905918540" redirect="true"/>
+  <file name="index.html" crc="3971710770" seo="true" mt="1549906949213" redirect="true"/>
+  <file name="school-projects.html" crc="184372428" seo="true" mt="1549907652108" redirect="true"/>
 </manifest>
