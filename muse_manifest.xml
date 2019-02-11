@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549908547720">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549910216063">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
     <file name="index.css" crc="3903475439" ref="index"/>
     <file name="master_a-master.css" crc="3977103445" ref="index:school-projects"/>
-    <file name="school-projects.css" crc="3952569189" ref="school-projects"/>
+    <file name="school-projects.css" crc="3797391343" ref="school-projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects"/>
@@ -58,7 +58,28 @@
     <file name="sprite amalia (1).png" crc="195103376" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
+    <file name="titre003.png" crc="4055455352" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="988765w9jorifq-crop-u1319.png" crc="488163232" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="timetrouble.jpg" crc="3881261167" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="explo002-crop-u1344.jpg" crc="4120933003" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="gard002.jpg" crc="4020528250" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="grootetigre002.png" crc="3813952037" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="tuileprehistoire007.jpg" crc="180821270" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3971710770" seo="true" mt="1549906949213" redirect="true"/>
-  <file name="school-projects.html" crc="4251394386" seo="true" mt="1549908540372" redirect="true"/>
+  <file name="school-projects.html" crc="31513267" seo="true" mt="1549910203395" redirect="true"/>
 </manifest>
