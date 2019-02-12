@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549981822055">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549982015054">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="38784190" ref="index"/>
+    <file name="index.css" crc="3914198284" ref="index"/>
     <file name="master_a-master.css" crc="3958592949" ref="index:school-projects:personnal-projects"/>
     <file name="school-projects.css" crc="4136640401" ref="school-projects"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects"/>
     <file name="personnal-projects.css" crc="453319908" ref="personnal-projects"/>
     <file name="nomq_school-projects.css" crc="3836418840" ref="school-projects"/>
   </folder>
@@ -154,7 +154,7 @@
       <caption webpage="personnal-projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4236638349" seo="true" mt="1549981408944" redirect="true"/>
+  <file name="index.html" crc="4103309073" seo="true" mt="1549982005591" redirect="true"/>
   <file name="school-projects.html" crc="3925541805" seo="true" mt="1549981817609" redirect="true"/>
   <file name="personnal-projects.html" crc="3893137909" seo="true" mt="1549981547979" redirect="true"/>
 </manifest>
