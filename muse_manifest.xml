@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980460757">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980548786">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
     <file name="index.css" crc="99819093" ref="index"/>
@@ -146,6 +146,6 @@
     </file>
   </folder>
   <file name="index.html" crc="3897068658" seo="true" mt="1549980133267" redirect="true"/>
-  <file name="school-projects.html" crc="3977799961" seo="true" mt="1549980450425" redirect="true"/>
+  <file name="school-projects.html" crc="4219363752" seo="true" mt="1549980542214" redirect="true"/>
   <file name="personnal-projects.html" crc="145934064" seo="true" mt="1549980133267" redirect="true"/>
 </manifest>
