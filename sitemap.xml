@@ -6,7 +6,31 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/9887656hngfvay.png</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/logoromain.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
+    <lastmod>2019-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bbt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/marxs.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/marxs2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/ecrantitre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/testlogo9.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -123,30 +147,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
-    <lastmod>2019-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/bbt.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/marxs.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/marxs2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/ecrantitre.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/testlogo9.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://dartictheunic.github.io/non-videogame-projects.html</loc>
     <lastmod>2019-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,6 +159,15 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/renault.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/about-me.html</loc>
+    <lastmod>2019-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/9887656hngfvay.png</image:loc>
     </image:image>
   </url>
   <url>
