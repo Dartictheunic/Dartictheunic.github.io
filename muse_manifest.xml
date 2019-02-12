@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980548786">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549981822055">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="99819093" ref="index"/>
-    <file name="master_a-master.css" crc="354169258" ref="index:school-projects:personnal-projects"/>
-    <file name="school-projects.css" crc="4225795104" ref="school-projects"/>
+    <file name="index.css" crc="38784190" ref="index"/>
+    <file name="master_a-master.css" crc="3958592949" ref="index:school-projects:personnal-projects"/>
+    <file name="school-projects.css" crc="4136640401" ref="school-projects"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:index"/>
-    <file name="personnal-projects.css" crc="283926748" ref="personnal-projects"/>
-    <file name="nomq_school-projects.css" crc="3964317186" ref="school-projects"/>
+    <file name="personnal-projects.css" crc="453319908" ref="personnal-projects"/>
+    <file name="nomq_school-projects.css" crc="3836418840" ref="school-projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects"/>
@@ -81,9 +81,6 @@
     <file name="grootetigre002.png" crc="3813952037" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="tuileprehistoire007.jpg" crc="180821270" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
     <file name="affiche selva516x730.jpg" crc="3944894574" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
@@ -123,7 +120,7 @@
     <file name="timetrouble246x163.jpg" crc="4003187241" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="tuileprehistoire007157x157.jpg" crc="310226945" seo="true" ref="school-projects">
+    <file name="tuileprehistoire007157x157.jpg" crc="346355916" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
     <file name="explo002-crop-u13442.jpg" crc="3868775583" seo="true" ref="school-projects">
@@ -144,8 +141,20 @@
     <file name="marxs2.jpg" crc="60259649" seo="true" ref="personnal-projects">
       <caption webpage="personnal-projects" alt=""/>
     </file>
+    <file name="tuileprehistoire007366x366.jpg" crc="3993017832" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="ecrantitre.jpg" crc="201678771" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
+    <file name="uiui.png" crc="4040008103" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
+    <file name="testlogo9.png" crc="3918563720" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3897068658" seo="true" mt="1549980133267" redirect="true"/>
-  <file name="school-projects.html" crc="4219363752" seo="true" mt="1549980542214" redirect="true"/>
-  <file name="personnal-projects.html" crc="145934064" seo="true" mt="1549980133267" redirect="true"/>
+  <file name="index.html" crc="4236638349" seo="true" mt="1549981408944" redirect="true"/>
+  <file name="school-projects.html" crc="3925541805" seo="true" mt="1549981817609" redirect="true"/>
+  <file name="personnal-projects.html" crc="3893137909" seo="true" mt="1549981547979" redirect="true"/>
 </manifest>

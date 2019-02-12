@@ -67,9 +67,6 @@
       <image:loc>http://dartictheunic.github.io/images/grootetigre002.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/tuileprehistoire007.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/affiche%20selva516x730.jpg</image:loc>
     </image:image>
     <image:image>
@@ -121,6 +118,9 @@
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/grootetigre002290x163.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/tuileprehistoire007366x366.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
@@ -135,6 +135,15 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/marxs2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/ecrantitre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/testlogo9.png</image:loc>
     </image:image>
   </url>
 </urlset>
