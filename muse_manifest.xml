@@ -1,22 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549982015054">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549991116264">
+  <folder name="assets">
+    <file name="p1-prez.pdf" crc="4155311568" seo="true" mt="1549984082000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="3914198284" ref="index"/>
-    <file name="master_a-master.css" crc="3958592949" ref="index:school-projects:personnal-projects"/>
-    <file name="school-projects.css" crc="4136640401" ref="school-projects"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects"/>
-    <file name="personnal-projects.css" crc="453319908" ref="personnal-projects"/>
-    <file name="nomq_school-projects.css" crc="3836418840" ref="school-projects"/>
+    <file name="index.css" crc="4018874671" ref="index"/>
+    <file name="master_a-master.css" crc="359121195" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="school-projects.css" crc="450206013" ref="school-projects"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:index:non-videogame-projects"/>
+    <file name="personnal-projects.css" crc="83073309" ref="personnal-projects"/>
+    <file name="nomq_school-projects.css" crc="3835083559" ref="school-projects"/>
+    <file name="non-videogame-projects.css" crc="176704623" ref="non-videogame-projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects"/>
-    <file name="museutils.js" crc="340535759" ref="index:school-projects:personnal-projects"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school-projects:personnal-projects"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:school-projects:personnal-projects"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects:personnal-projects"/>
-    <file name="require.js" crc="7928878" ref="index:school-projects:personnal-projects"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:school-projects:personnal-projects"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school-projects:personnal-projects"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="require.js" crc="7928878" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school-projects:personnal-projects:non-videogame-projects"/>
     <file name="webpro.js" crc="4059564322" ref="school-projects"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="school-projects"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="school-projects"/>
@@ -153,8 +157,18 @@
     <file name="testlogo9.png" crc="3918563720" seo="true" ref="personnal-projects">
       <caption webpage="personnal-projects" alt=""/>
     </file>
+    <file name="bump_n_dump-973x730.jpg" crc="3967738419" seo="true" ref="non-videogame-projects">
+      <caption webpage="non-videogame-projects" alt=""/>
+    </file>
+    <file name="renaultseminar.jpg" crc="3831497654" seo="true" ref="non-videogame-projects">
+      <caption webpage="non-videogame-projects" alt=""/>
+    </file>
+    <file name="renault.jpg" crc="4146985426" seo="true" ref="non-videogame-projects">
+      <caption webpage="non-videogame-projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4103309073" seo="true" mt="1549982005591" redirect="true"/>
-  <file name="school-projects.html" crc="3925541805" seo="true" mt="1549981817609" redirect="true"/>
-  <file name="personnal-projects.html" crc="3893137909" seo="true" mt="1549981547979" redirect="true"/>
+  <file name="index.html" crc="3764495644" seo="true" mt="1549982277465" redirect="true"/>
+  <file name="school-projects.html" crc="4164258067" seo="true" mt="1549982427264" redirect="true"/>
+  <file name="personnal-projects.html" crc="4157805486" seo="true" mt="1549982277465" redirect="true"/>
+  <file name="non-videogame-projects.html" crc="3796572770" seo="true" mt="1549985468616" redirect="true"/>
 </manifest>

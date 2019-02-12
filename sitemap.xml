@@ -146,4 +146,25 @@
       <image:loc>http://dartictheunic.github.io/images/testlogo9.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://dartictheunic.github.io/non-videogame-projects.html</loc>
+    <lastmod>2019-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bump_n_dump-973x730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/renaultseminar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/renault.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/assets/p1-prez.pdf</loc>
+    <lastmod>2019-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
