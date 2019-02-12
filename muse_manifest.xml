@@ -1,23 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549910216063">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980141864">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="3903475439" ref="index"/>
-    <file name="master_a-master.css" crc="3977103445" ref="index:school-projects"/>
-    <file name="school-projects.css" crc="3797391343" ref="school-projects"/>
+    <file name="index.css" crc="99819093" ref="index"/>
+    <file name="master_a-master.css" crc="3958592949" ref="index:school-projects:personnal-projects"/>
+    <file name="school-projects.css" crc="3779469491" ref="school-projects"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:index"/>
+    <file name="personnal-projects.css" crc="283926748" ref="personnal-projects"/>
+    <file name="nomq_school-projects.css" crc="4103795418" ref="school-projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects"/>
-    <file name="museutils.js" crc="340535759" ref="index:school-projects"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school-projects"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:school-projects"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects"/>
-    <file name="require.js" crc="7928878" ref="index:school-projects"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:school-projects"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school-projects"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:school-projects:personnal-projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school-projects:personnal-projects"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:school-projects:personnal-projects"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects:personnal-projects"/>
+    <file name="require.js" crc="7928878" ref="index:school-projects:personnal-projects"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:school-projects:personnal-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school-projects:personnal-projects"/>
     <file name="webpro.js" crc="4059564322" ref="school-projects"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="school-projects"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="school-projects"/>
     <file name="touchswipe.js" crc="4075097462" ref="school-projects"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="school-projects"/>
   </folder>
   <folder name="images">
     <file name="9887656hngfvay.png" crc="83458271" seo="true" ref="index">
@@ -30,7 +34,7 @@
     <file name="karpdems-crop-u889.jpg" crc="3810979351" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="karpdems2-crop-u909.jpg" crc="4272943557" seo="true" ref="school-projects">
+    <file name="karpdems2-crop-u909.jpg" crc="4250898124" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
     <file name="karpdems3-crop-u929.jpg" crc="3794190384" seo="true" ref="school-projects">
@@ -57,14 +61,15 @@
     </file>
     <file name="sprite amalia (1).png" crc="195103376" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
+      <caption webpage="school-projects" alt=""/>
     </file>
     <file name="titre003.png" crc="4055455352" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="988765w9jorifq-crop-u1319.png" crc="488163232" seo="true" ref="school-projects">
+    <file name="988765w9jorifq-crop-u1319.png" crc="3886380870" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="timetrouble.jpg" crc="3881261167" seo="true" ref="school-projects">
+    <file name="timetrouble.jpg" crc="194366438" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
     <file name="explo002-crop-u1344.jpg" crc="4120933003" seo="true" ref="school-projects">
@@ -79,7 +84,68 @@
     <file name="tuileprehistoire007.jpg" crc="180821270" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
+    <file name="affiche selva516x730.jpg" crc="3944894574" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="the-forest-stomach-64 (1)224x224.png" crc="3939089621" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="jungle2 (1)360x212.png" crc="127740711" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="i-mortsilencieuse (1)226x226.png" crc="3768979444" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="the forest stomach161x224.jpg" crc="416051165" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="50717494_967030393495705_8693288878284472320_n1233x694.jpg" crc="3987074256" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
+    </file>
+    <file name="karpdems-crop-u8892.jpg" crc="487220440" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="karpdems2-crop-u9092.jpg" crc="394508909" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="karpdems4220x454.jpg" crc="4092761654" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="karpdems3-crop-u9292.jpg" crc="223288240" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="titre0031243x575.png" crc="3980359572" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="988765w9jorifq-crop-u13192.png" crc="3862132243" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="timetrouble246x163.jpg" crc="4003187241" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="tuileprehistoire007157x157.jpg" crc="310226945" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="explo002-crop-u13442.jpg" crc="3868775583" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="gard002163x163.jpg" crc="530523439" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="grootetigre002290x163.png" crc="4215860678" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="bbt.png" crc="103460376" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
+    <file name="marxs.jpg" crc="3995453547" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
+    <file name="marxs2.jpg" crc="60259649" seo="true" ref="personnal-projects">
+      <caption webpage="personnal-projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3971710770" seo="true" mt="1549906949213" redirect="true"/>
-  <file name="school-projects.html" crc="31513267" seo="true" mt="1549910203395" redirect="true"/>
+  <file name="index.html" crc="3897068658" seo="true" mt="1549980133267" redirect="true"/>
+  <file name="school-projects.html" crc="79080583" seo="true" mt="1549980133267" redirect="true"/>
+  <file name="personnal-projects.html" crc="145934064" seo="true" mt="1549980133267" redirect="true"/>
 </manifest>
