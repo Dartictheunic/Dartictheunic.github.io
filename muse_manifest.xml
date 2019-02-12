@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980309890">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549980460757">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
     <file name="index.css" crc="99819093" ref="index"/>
     <file name="master_a-master.css" crc="354169258" ref="index:school-projects:personnal-projects"/>
-    <file name="school-projects.css" crc="4043082286" ref="school-projects"/>
+    <file name="school-projects.css" crc="4225795104" ref="school-projects"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:index"/>
     <file name="personnal-projects.css" crc="283926748" ref="personnal-projects"/>
-    <file name="nomq_school-projects.css" crc="4270397709" ref="school-projects"/>
+    <file name="nomq_school-projects.css" crc="3964317186" ref="school-projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects"/>
@@ -146,6 +146,6 @@
     </file>
   </folder>
   <file name="index.html" crc="3897068658" seo="true" mt="1549980133267" redirect="true"/>
-  <file name="school-projects.html" crc="3781082487" seo="true" mt="1549980299105" redirect="true"/>
+  <file name="school-projects.html" crc="3977799961" seo="true" mt="1549980450425" redirect="true"/>
   <file name="personnal-projects.html" crc="145934064" seo="true" mt="1549980133267" redirect="true"/>
 </manifest>
