@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1549998903968">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1550078820128">
   <folder name="assets">
     <file name="p1-prez.pdf" crc="4155311568" seo="true" mt="1549984082000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="4205488035" ref="index"/>
+    <file name="index.css" crc="3869615355" ref="index"/>
     <file name="master_a-master.css" crc="3929385786" ref="school-projects:personnal-projects:non-videogame-projects:about-me"/>
     <file name="school-projects.css" crc="3875335420" ref="school-projects"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:non-videogame-projects:about-me"/>
@@ -168,11 +168,11 @@
     <file name="renault.jpg" crc="4146985426" seo="true" ref="non-videogame-projects">
       <caption webpage="non-videogame-projects" alt=""/>
     </file>
-    <file name="logoromain.jpg" crc="4062938383" seo="true" ref="index">
+    <file name="logoromain.jpg" crc="3806023946" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4158573944" seo="true" mt="1549998898211" redirect="true"/>
+  <file name="index.html" crc="4263059926" seo="true" mt="1550078810857" redirect="true"/>
   <file name="school-projects.html" crc="4023303581" seo="true" mt="1549998736299" redirect="true"/>
   <file name="personnal-projects.html" crc="249902584" seo="true" mt="1549998736299" redirect="true"/>
   <file name="non-videogame-projects.html" crc="4156672792" seo="true" mt="1549998736299" redirect="true"/>
