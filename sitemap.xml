@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dartictheunic.github.io/index.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/logoromain.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/logoromain.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -29,13 +29,10 @@
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/testlogo9.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/school-projects.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,7 +145,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/non-videogame-projects.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -163,7 +160,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/about-me.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
