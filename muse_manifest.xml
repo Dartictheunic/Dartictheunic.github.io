@@ -1,34 +1,39 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1550155832971">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1550160812582">
   <folder name="assets">
     <file name="p1-prez.pdf" crc="4155311568" seo="true" mt="1549984082000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
-    <file name="index.css" crc="4134826189" ref="index"/>
-    <file name="master_a-master.css" crc="4186213773" ref="school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="school-projects.css" crc="4200051503" ref="school-projects"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:non-videogame-projects"/>
-    <file name="personnal-projects.css" crc="3910313840" ref="personnal-projects"/>
-    <file name="nomq_school-projects.css" crc="190124502" ref="school-projects"/>
-    <file name="non-videogame-projects.css" crc="248390490" ref="non-videogame-projects"/>
-    <file name="about-me.css" crc="499510469" ref="about-me"/>
-    <file name="iefonts_personnal-projects.css" crc="53356506" ref="personnal-projects"/>
-    <file name="iefonts_school-projects.css" crc="4100892756" ref="school-projects"/>
+    <file name="index.css" crc="422304355" ref="index"/>
+    <file name="master_a-master.css" crc="4276474579" ref="school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="school-projects.css" crc="4055499189" ref="school-projects"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:about-me:other-design-projects:contact"/>
+    <file name="personnal-projects.css" crc="138717481" ref="personnal-projects"/>
+    <file name="nomq_school-projects.css" crc="4177379418" ref="school-projects"/>
+    <file name="about-me.css" crc="352813605" ref="about-me"/>
+    <file name="iefonts_personnal-projects.css" crc="3833068866" ref="personnal-projects"/>
+    <file name="iefonts_school-projects.css" crc="487116859" ref="school-projects"/>
+    <file name="other-design-projects.css" crc="4046245457" ref="other-design-projects"/>
+    <file name="contact.css" crc="4121944787" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="museutils.js" crc="340535759" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="require.js" crc="7928878" ref="index:school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="school-projects:personnal-projects:non-videogame-projects:about-me"/>
-    <file name="webpro.js" crc="4059564322" ref="school-projects"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="require.js" crc="7928878" ref="index:school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="school-projects:personnal-projects:about-me:other-design-projects:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="school-projects:personnal-projects:about-me:other-design-projects:index:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="school-projects:contact"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="school-projects"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="school-projects"/>
     <file name="touchswipe.js" crc="4075097462" ref="school-projects"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="school-projects"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u4075.php" crc="151276050" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="9887656hngfvay.png" crc="83458271" seo="true" ref="about-me">
@@ -38,7 +43,7 @@
     <file name="50717494_967030393495705_8693288878284472320_n.jpg" crc="38754941" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="school-projects:about-me:personnal-projects"/>
+    <file name="blank.gif" crc="4208392903" ref="school-projects:about-me"/>
     <file name="karpdems-crop-u889.jpg" crc="3810979351" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
@@ -69,9 +74,6 @@
     </file>
     <file name="sprite amalia (1).png" crc="195103376" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="titre003.png" crc="4055455352" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
     <file name="988765w9jorifq-crop-u1319.png" crc="3886380870" seo="true" ref="school-projects">
@@ -158,22 +160,35 @@
     <file name="uiui.png" crc="4040008103" seo="true" ref="personnal-projects">
       <caption webpage="personnal-projects" alt=""/>
     </file>
-    <file name="bump_n_dump-973x730.jpg" crc="3967738419" seo="true" ref="non-videogame-projects">
+    <file name="bump_n_dump-973x730.jpg" crc="3967738419" seo="true" ref="other-design-projects">
+      <caption webpage="other-design-projects" alt=""/>
       <caption webpage="non-videogame-projects" alt=""/>
     </file>
-    <file name="renaultseminar.jpg" crc="3831497654" seo="true" ref="non-videogame-projects">
+    <file name="renaultseminar.jpg" crc="3831497654" seo="true" ref="other-design-projects">
+      <caption webpage="other-design-projects" alt=""/>
       <caption webpage="non-videogame-projects" alt=""/>
     </file>
-    <file name="renault.jpg" crc="4146985426" seo="true" ref="non-videogame-projects">
+    <file name="renault.jpg" crc="4146985426" seo="true" ref="other-design-projects">
+      <caption webpage="other-design-projects" alt=""/>
       <caption webpage="non-videogame-projects" alt=""/>
     </file>
-    <file name="logoromain.png" crc="3816555586" seo="true" ref="index">
+    <file name="titre003-crop-u1309.png" crc="435988756" seo="true" ref="school-projects">
+      <caption webpage="school-projects" alt=""/>
+    </file>
+    <file name="elinquisition.png" crc="3775394107" seo="true" ref="other-design-projects">
+      <caption webpage="other-design-projects" alt=""/>
+    </file>
+    <file name="inquisition.jpg" crc="108860555" seo="true" ref="other-design-projects">
+      <caption webpage="other-design-projects" alt=""/>
+    </file>
+    <file name="logoromain-crop-u3299.png" crc="217039097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3864439101" seo="true" mt="1550155823519" redirect="true"/>
-  <file name="school-projects.html" crc="413875021" seo="true" mt="1550154970094" redirect="true"/>
-  <file name="personnal-projects.html" crc="4057131194" seo="true" mt="1550155054383" redirect="true"/>
-  <file name="non-videogame-projects.html" crc="525200583" seo="true" mt="1550155123118" redirect="true"/>
-  <file name="about-me.html" crc="4057414627" seo="true" mt="1550153726756" redirect="true"/>
+  <file name="index.html" crc="3917039190" seo="true" mt="1550156016798" redirect="true"/>
+  <file name="school-projects.html" crc="70120789" seo="true" mt="1550159829293" redirect="true"/>
+  <file name="personnal-projects.html" crc="40987381" seo="true" mt="1550159829293" redirect="true"/>
+  <file name="about-me.html" crc="4167703541" seo="true" mt="1550159829293" redirect="true"/>
+  <file name="other-design-projects.html" crc="4012755102" seo="true" mt="1550159829293" redirect="true"/>
+  <file name="contact.html" crc="49838764" seo="true" mt="1550160800000" redirect="true"/>
 </manifest>
