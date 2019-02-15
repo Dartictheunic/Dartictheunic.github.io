@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1550219871425">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1550220437503">
   <folder name="assets">
     <file name="p1-prez.pdf" crc="4155311568" seo="true" mt="1549984082000"/>
   </folder>
@@ -6,15 +6,15 @@
     <file name="site_global.css" crc="338579073"/>
     <file name="index.css" crc="422304355" ref="index"/>
     <file name="master_a-master.css" crc="4276474579" ref="school-projects:personnal-projects:about-me:other-design-projects:contact"/>
-    <file name="school-projects.css" crc="479084613" ref="school-projects"/>
+    <file name="school-projects.css" crc="4098498353" ref="school-projects"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="personnal-projects:school-projects:about-me:other-design-projects:contact"/>
-    <file name="personnal-projects.css" crc="421207144" ref="personnal-projects"/>
-    <file name="nomq_school-projects.css" crc="243423476" ref="school-projects"/>
+    <file name="personnal-projects.css" crc="3878610172" ref="personnal-projects"/>
+    <file name="nomq_school-projects.css" crc="4077811815" ref="school-projects"/>
     <file name="about-me.css" crc="352813605" ref="about-me"/>
     <file name="iefonts_personnal-projects.css" crc="74210187" ref="personnal-projects"/>
     <file name="iefonts_school-projects.css" crc="487116859" ref="school-projects"/>
-    <file name="other-design-projects.css" crc="3889875251" ref="other-design-projects"/>
-    <file name="contact.css" crc="241350066" ref="contact"/>
+    <file name="other-design-projects.css" crc="147466724" ref="other-design-projects"/>
+    <file name="contact.css" crc="59369133" ref="contact"/>
     <file name="iefonts_other-design-projects.css" crc="4138504031" ref="other-design-projects"/>
   </folder>
   <folder name="scripts">
@@ -206,7 +206,7 @@
     <file name="artboard 2-crop-u46842.jpg" crc="52045942" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="cvvo.jpg" crc="4061975447" seo="true" ref="contact">
+    <file name="cvvo.jpg" crc="105774736" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="barque_render_1-crop-u4604.jpg" crc="275478092" seo="true" ref="school-projects">
@@ -214,9 +214,9 @@
     </file>
   </folder>
   <file name="index.html" crc="3917039190" seo="true" mt="1550156016798" redirect="true"/>
-  <file name="school-projects.html" crc="4010294751" seo="true" mt="1550219849355" redirect="true"/>
-  <file name="personnal-projects.html" crc="189379234" seo="true" mt="1550219637007" redirect="true"/>
+  <file name="school-projects.html" crc="4293853805" seo="true" mt="1550220370628" redirect="true"/>
+  <file name="personnal-projects.html" crc="13559566" seo="true" mt="1550220410582" redirect="true"/>
   <file name="about-me.html" crc="4167703541" seo="true" mt="1550159829293" redirect="true"/>
-  <file name="other-design-projects.html" crc="342376599" seo="true" mt="1550219700121" redirect="true"/>
-  <file name="contact.html" crc="394871704" seo="true" mt="1550166407954" redirect="true"/>
+  <file name="other-design-projects.html" crc="3969571365" seo="true" mt="1550220423454" redirect="true"/>
+  <file name="contact.html" crc="94218182" seo="true" mt="1550220306404" redirect="true"/>
 </manifest>
