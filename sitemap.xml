@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/school-projects.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,9 +149,6 @@
       <image:loc>http://dartictheunic.github.io/images/52287174_2003785306338130_8108014732830572544_n-crop-u4464.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/barque_render_1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/artboard%201-crop-u4644.jpg</image:loc>
     </image:image>
     <image:image>
@@ -169,10 +166,13 @@
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/artboard%202-crop-u46842.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/barque_render_1-crop-u4604.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/other-design-projects.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
