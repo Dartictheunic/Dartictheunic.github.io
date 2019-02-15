@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dartictheunic.github.io/index.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dartictheunic.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/logoromain-crop-u3299.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/logoromain-crop-u32992.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/logoromain-crop-u32993.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -35,6 +42,7 @@
     <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dartictheunic.github.io/phone/school-projects.html"/>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/50717494_967030393495705_8693288878284472320_n.jpg</image:loc>
       <image:caption>Karp &amp; Dem's, a Rubika mobile game</image:caption>
@@ -317,7 +325,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/about-me.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
