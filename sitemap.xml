@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dartictheunic.github.io/index.html</loc>
-    <lastmod>2019-02-14</lastmod>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/logoromain-crop-u3299.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
+    <lastmod>2019-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bbt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/marxs.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/marxs2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/ecrantitre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -183,24 +204,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/personnal-projects.html</loc>
+    <loc>http://dartictheunic.github.io/contact.html</loc>
     <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/bbt.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/marxs.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/marxs2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/ecrantitre.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/uiui.png</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/cvvo2017good.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -258,16 +267,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/contact.html</loc>
-    <lastmod>2019-11-12</lastmod>
+    <loc>http://dartictheunic.github.io/assets/p1-prez.pdf</loc>
+    <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/cvvo.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/assets/p1-prez.pdf</loc>
+    <loc>http://dartictheunic.github.io/assets/cvvo.pdf</loc>
     <lastmod>2019-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
