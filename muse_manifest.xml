@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1573583639326">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1573586374886">
   <folder name="css">
     <file name="site_global.css" crc="338579073"/>
     <file name="master_a-master.css" crc="246714793" ref="school-projects:contact:personnal-projects:design-projects:about-me"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="school-projects:contact:personnal-projects:design-projects:about-me"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="school-projects:contact:personnal-projects:about-me"/>
     <file name="school-projects.css" crc="519238633" ref="school-projects"/>
     <file name="nomq_school-projects.css" crc="282120218" ref="school-projects"/>
     <file name="iefonts_school-projects.css" crc="487116859" ref="school-projects"/>
     <file name="contact.css" crc="59369133" ref="contact"/>
     <file name="personnal-projects.css" crc="489303234" ref="personnal-projects"/>
     <file name="iefonts_personnal-projects.css" crc="74210187" ref="personnal-projects"/>
-    <file name="design-projects.css" crc="323316321" ref="design-projects"/>
+    <file name="design-projects.css" crc="188480283" ref="design-projects"/>
     <file name="index.css" crc="3894181223" ref="index"/>
     <file name="about-me.css" crc="532366237" ref="about-me"/>
   </folder>
@@ -25,14 +25,14 @@
     <file name="jquery.watch.js" crc="522499760" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
     <file name="require.js" crc="4177726516" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="webpro.js" crc="3856315280" ref="school-projects"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="school-projects"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="school-projects"/>
-    <file name="touchswipe.js" crc="3888935200" ref="school-projects"/>
+    <file name="webpro.js" crc="3856315280" ref="school-projects:design-projects"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="school-projects:design-projects"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="school-projects:design-projects"/>
+    <file name="touchswipe.js" crc="3888935200" ref="school-projects:design-projects"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="school-projects"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="about-me:school-projects"/>
+    <file name="blank.gif" crc="4208392903" ref="about-me:school-projects:design-projects"/>
     <file name="mwehd.png" crc="83458271" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -70,7 +70,7 @@
     <file name="karpdems3-crop-u929.jpg" crc="3794190384" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="school-projects"/>
+    <file name="loading.gif" crc="3815509949" ref="school-projects:design-projects"/>
     <file name="team nudelsuppe - projet haven.jpg" crc="3797072513" seo="true" ref="school-projects">
       <caption webpage="school-projects" alt=""/>
       <caption webpage="school-projects" alt=""/>
@@ -219,23 +219,56 @@
     <file name="renault.jpg" crc="4146985426" seo="true" ref="design-projects">
       <caption webpage="design-projects" alt=""/>
     </file>
-    <file name="elinquisition.png" crc="3775394107" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
-    </file>
-    <file name="inquisition.jpg" crc="108860555" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
-    </file>
     <file name="logoromain-crop-u3299.png" crc="217039097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cvvo.jpg" crc="4061975447" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
+    <file name="bigpicture.jpg" crc="4122464159" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-05-crop-u6106.jpg" crc="417922419" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-06-crop-u6228.jpg" crc="3916756579" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-08-crop-u6248.jpg" crc="4078904862" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-09-crop-u6268.jpg" crc="4274401035" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-14-crop-u6288.jpg" crc="359727187" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-16-crop-u6308.jpg" crc="206962795" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-17-crop-u6328.jpg" crc="287816449" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-19-crop-u6348.jpg" crc="454260137" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-20-crop-u6368.jpg" crc="498790056" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-21-crop-u6388.jpg" crc="3876533805" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="presentation - methodo isd-22-crop-u6408.jpg" crc="376382651" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
+    <file name="bigpicture562x422.jpg" crc="4167379793" seo="true" ref="design-projects">
+      <caption webpage="design-projects" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="516125572" seo="true" mt="1573574061433" redirect="true"/>
   <file name="school-projects.html" crc="4132623498" seo="true" mt="1573583471302" redirect="true"/>
   <file name="personnal-projects.html" crc="168580485" seo="true" mt="1573573978248" redirect="true"/>
-  <file name="design-projects.html" crc="146560788" seo="true" mt="1573573948426" redirect="true"/>
+  <file name="design-projects.html" crc="502389800" seo="true" mt="1573586362525" redirect="true"/>
   <file name="index.html" crc="3763277678" seo="true" mt="1550156016798" redirect="true"/>
   <file name="contact.html" crc="101676897" seo="true" mt="1573573988430" redirect="true"/>
 </manifest>
