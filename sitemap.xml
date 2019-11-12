@@ -91,9 +91,6 @@
       <image:loc>http://dartictheunic.github.io/images/artboard%201-crop-u4644.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/artboard%202-crop-u4684.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/titre003-crop-u1309.png</image:loc>
     </image:image>
     <image:image>
@@ -103,16 +100,10 @@
       <image:loc>http://dartictheunic.github.io/images/timetrouble.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/explo002-crop-u1344.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/gard002.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/grootetigre002.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/tuileprehistoire007366x366.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/axskcebdo1_0000_nildv6xr34-crop-u5309.jpg</image:loc>
@@ -170,9 +161,6 @@
       <image:loc>http://dartictheunic.github.io/images/tuileprehistoire007157x157.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/explo002-crop-u13442.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/gard002163x163.jpg</image:loc>
     </image:image>
     <image:image>
@@ -188,9 +176,6 @@
       <image:loc>http://dartictheunic.github.io/images/artboard%201-crop-u46442.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/artboard%202-crop-u46842.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/axskcebdo1_0000_nildv6xr34-crop-u53092.jpg</image:loc>
     </image:image>
     <image:image>
@@ -201,6 +186,18 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/axskcebdo1_0008_mn0rq2yq6n-crop-u54622.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/artboard%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/explo002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/tuileprehistoire007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/artboard%202641x198.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -267,14 +264,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/assets/p1-prez.pdf</loc>
-    <lastmod>2019-02-14</lastmod>
+    <loc>http://dartictheunic.github.io/assets/alexis_jouanneau_cv.pdf</loc>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dartictheunic.github.io/assets/cvvo.pdf</loc>
-    <lastmod>2019-02-14</lastmod>
+    <loc>http://dartictheunic.github.io/assets/alexis_jouanneau_resume.pdf</loc>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
