@@ -1,273 +1,103 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1573588107340">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602156426404">
   <folder name="css">
-    <file name="site_global.css" crc="338579073"/>
-    <file name="master_a-master.css" crc="240148528" ref="school-projects:contact:personnal-projects:design-projects:about-me"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="school-projects:personnal-projects:about-me:design-projects"/>
-    <file name="school-projects.css" crc="150643529" ref="school-projects"/>
-    <file name="nomq_school-projects.css" crc="3963655842" ref="school-projects"/>
-    <file name="iefonts_school-projects.css" crc="3911255207" ref="school-projects"/>
-    <file name="contact.css" crc="165770712" ref="contact"/>
-    <file name="personnal-projects.css" crc="4165784159" ref="personnal-projects"/>
-    <file name="iefonts_personnal-projects.css" crc="385956340" ref="personnal-projects"/>
-    <file name="design-projects.css" crc="201686813" ref="design-projects"/>
-    <file name="index.css" crc="3894181223" ref="index"/>
-    <file name="about-me.css" crc="4020114146" ref="about-me"/>
-  </folder>
-  <folder name="assets">
-    <file name="alexis_jouanneau_cv.pdf" crc="4215750687" seo="true" mt="1573586768000"/>
-    <file name="alexis_jouanneau_resume.pdf" crc="173347592" seo="true" mt="1573577677000"/>
+    <file name="site_global.css" crc="3797272740"/>
+    <file name="index.css" crc="3790636093" ref="index"/>
+    <file name="cards.css" crc="468457305" ref="cards"/>
+    <file name="quick-tour.css" crc="276229442" ref="quick-tour"/>
+    <file name="nomq_quick-tour.css" crc="3796056921" ref="quick-tour"/>
+    <file name="project-haven.css" crc="425714161" ref="project-haven"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="museutils.js" crc="3939489907" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="museconfig.js" crc="128606099" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="about-me:school-projects:personnal-projects:design-projects:contact"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="require.js" crc="4177726516" ref="about-me:school-projects:personnal-projects:design-projects:index:contact"/>
-    <file name="webpro.js" crc="3856315280" ref="school-projects:design-projects"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="school-projects:design-projects"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="school-projects:design-projects"/>
-    <file name="touchswipe.js" crc="3888935200" ref="school-projects:design-projects"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="school-projects"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quick-tour:cards:project-haven"/>
+    <file name="museutils.js" crc="3803043152" ref="index:quick-tour:cards:project-haven"/>
+    <file name="whatinput.js" crc="86476730" ref="index:quick-tour:cards:project-haven"/>
+    <file name="museconfig.js" crc="380897831" ref="index:quick-tour:cards:project-haven"/>
+    <file name="require.js" crc="4157109226" ref="index:quick-tour:cards:project-haven"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="quick-tour"/>
+    <file name="jquery.watch.js" crc="99325471" ref="cards"/>
+    <file name="webpro.js" crc="242022427" ref="cards"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="cards"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="cards"/>
+    <file name="touchswipe.js" crc="4066113679" ref="cards"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="project-haven"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="about-me:school-projects:design-projects:personnal-projects:contact"/>
-    <file name="mwehd.png" crc="83458271" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="affiche selva.jpg" crc="4189050516" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="the-forest-stomach-64 (1)504x504.png" crc="3939089621" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="jungle2 (1).png" crc="127740711" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="i-mortsilencieuse (1).png" crc="3768979444" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="the forest stomach.jpg" crc="187143497" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="sprite amalia (1).png" crc="195103376" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="50717494_967030393495705_8693288878284472320_n.jpg" crc="38754941" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
-    </file>
-    <file name="karpdems-crop-u889.jpg" crc="532178943" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems2-crop-u909.jpg" crc="99487257" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems4.jpg" crc="109599062" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems3-crop-u929.jpg" crc="4003195574" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="school-projects:design-projects"/>
-    <file name="team nudelsuppe - projet haven.jpg" crc="3797072513" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u4464.jpg" crc="335181354" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="barque_render_1.jpg" crc="4004631671" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="artboard 1-crop-u4644.jpg" crc="524643149" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="titre003-crop-u1309.png" crc="100322419" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="988765w9jorifq-crop-u1319.png" crc="3886380870" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="timetrouble.jpg" crc="194366438" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="gard002.jpg" crc="4020528250" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="grootetigre002.png" crc="3813952037" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0000_nildv6xr34-crop-u5309.jpg" crc="236546244" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0001_etx6c5cpsh-crop-u5400.jpg" crc="500212961" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0005_3yxj2anlcx-crop-u5431.jpg" crc="4227166012" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0008_mn0rq2yq6n-crop-u5462.jpg" crc="3834709810" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="affiche selva516x730.jpg" crc="215383742" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="the-forest-stomach-64 (1)224x224.png" crc="3939089621" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="jungle2 (1)360x212.png" crc="127740711" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="i-mortsilencieuse (1)226x226.png" crc="3768979444" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="the forest stomach161x224.jpg" crc="416051165" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="50717494_967030393495705_8693288878284472320_n1233x694.jpg" crc="3987074256" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt="Karp &amp; Dem's, a Rubika mobile game"/>
-    </file>
-    <file name="karpdems-crop-u8892.jpg" crc="425213034" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems2-crop-u9092.jpg" crc="4261791591" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems4220x454.jpg" crc="4092761654" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="karpdems3-crop-u9292.jpg" crc="269219556" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="titre0031243x575.png" crc="3980359572" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="988765w9jorifq-crop-u13192.png" crc="3862132243" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="timetrouble246x163.jpg" crc="4003187241" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="tuileprehistoire007157x157.jpg" crc="506016073" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="gard002163x163.jpg" crc="530523439" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="grootetigre002290x163.png" crc="4215860678" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u44642.jpg" crc="4096176643" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="barque_render_1641x361.jpg" crc="4210202126" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="artboard 1-crop-u46442.jpg" crc="4176501493" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0000_nildv6xr34-crop-u53092.jpg" crc="3797548971" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0001_etx6c5cpsh-crop-u54002.jpg" crc="4130699503" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0005_3yxj2anlcx-crop-u54312.jpg" crc="326896186" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="axskcebdo1_0008_mn0rq2yq6n-crop-u54622.jpg" crc="470911918" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-    </file>
-    <file name="bbt.png" crc="103460376" seo="true" ref="personnal-projects">
-      <caption webpage="personnal-projects" alt=""/>
-    </file>
-    <file name="marxs.jpg" crc="3995453547" seo="true" ref="personnal-projects">
-      <caption webpage="personnal-projects" alt=""/>
-    </file>
-    <file name="marxs2.jpg" crc="60259649" seo="true" ref="personnal-projects">
-      <caption webpage="personnal-projects" alt=""/>
-    </file>
-    <file name="ecrantitre.jpg" crc="201678771" seo="true" ref="personnal-projects">
-      <caption webpage="personnal-projects" alt=""/>
-    </file>
-    <file name="uiui.png" crc="4040008103" seo="true" ref="personnal-projects">
-      <caption webpage="personnal-projects" alt=""/>
-    </file>
-    <file name="bump_n_dump-973x730.jpg" crc="3967738419" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
-    </file>
-    <file name="renaultseminar.jpg" crc="3831497654" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
-    </file>
-    <file name="renault.jpg" crc="3843135230" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
-    </file>
-    <file name="logoromain-crop-u3299.png" crc="4260681097" seo="true" ref="index">
+    <file name="ppcrop.png" crc="4223827963" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bigpicture.jpg" crc="4122464159" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:quick-tour:cards"/>
+    <file name="testbg_1_3.gif" crc="138553531" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="presentation - methodo isd-05-crop-u6106.jpg" crc="417922419" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="gametodesign_5.gif" crc="83886350" seo="true" ref="quick-tour">
+      <caption webpage="quick-tour" alt=""/>
+      <caption webpage="quick-tour" alt=""/>
     </file>
-    <file name="presentation - methodo isd-06-crop-u6228.jpg" crc="3916756579" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="multiplicator_2.gif" crc="3918183670" seo="true" ref="quick-tour">
+      <caption webpage="quick-tour" alt=""/>
+      <caption webpage="quick-tour" alt=""/>
     </file>
-    <file name="presentation - methodo isd-08-crop-u6248.jpg" crc="4078904862" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="486821503" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
     </file>
-    <file name="presentation - methodo isd-09-crop-u6268.jpg" crc="4274401035" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="artboard 1-crop-u979.jpg" crc="150254806" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
     </file>
-    <file name="presentation - methodo isd-14-crop-u6288.jpg" crc="359727187" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="artboard 2-crop-u999.jpg" crc="447941906" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
     </file>
-    <file name="presentation - methodo isd-16-crop-u6308.jpg" crc="206962795" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="154853549" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
     </file>
-    <file name="presentation - methodo isd-17-crop-u6328.jpg" crc="287816449" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="cards"/>
+    <file name="chronovectoonce.gif" crc="380350622" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="presentation - methodo isd-19-crop-u6348.jpg" crc="454260137" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="team nudelsuppe - projet haven.jpg" crc="96489866" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="presentation - methodo isd-20-crop-u6368.jpg" crc="498790056" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="bonhommeonce.gif" crc="412019260" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="presentation - methodo isd-21-crop-u6388.jpg" crc="3876533805" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="antoinepropre.png" crc="307896842" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="presentation - methodo isd-22-crop-u6408.jpg" crc="376382651" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="antoinedos.jpg" crc="4154314504" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="bigpicture562x422.jpg" crc="4167379793" seo="true" ref="design-projects">
-      <caption webpage="design-projects" alt=""/>
+    <file name="cocapropre.jpg" crc="370535298" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="cvvo2017good.jpg" crc="4075256962" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
+    <file name="cocados.jpg" crc="104646398" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="artboard 2.jpg" crc="3950193154" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
+    <file name="guiguipropre.jpg" crc="279911035" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="explo002.jpg" crc="4089114096" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
-      <caption webpage="school-projects" alt=""/>
+    <file name="guiguidos.jpg" crc="483125285" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="tuileprehistoire007.jpg" crc="160444444" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
+    <file name="martinpropre.jpg" crc="3769385643" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="artboard 2641x198.jpg" crc="453764886" seo="true" ref="school-projects">
-      <caption webpage="school-projects" alt=""/>
+    <file name="martindos.jpg" crc="184501971" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="presindd3.jpg" crc="482470735" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="presindd5.jpg" crc="269062240" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="presindd.jpg" crc="75693301" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="presindd axis-crop-u1533.jpg" crc="105969374" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="4104764899" seo="true" mt="1573586430256" redirect="true"/>
-  <file name="school-projects.html" crc="225317187" seo="true" mt="1573587772357" redirect="true"/>
-  <file name="personnal-projects.html" crc="32587272" seo="true" mt="1573587761592" redirect="true"/>
-  <file name="design-projects.html" crc="3804563764" seo="true" mt="1573587758521" redirect="true"/>
-  <file name="index.html" crc="55586840" seo="true" mt="1573587752855" redirect="true"/>
-  <file name="contact.html" crc="4266101311" seo="true" mt="1573588095711" redirect="true"/>
+  <file name="index.html" crc="348178159" seo="true" mt="1602156084182" redirect="true"/>
+  <file name="quick-tour.html" crc="341726110" seo="true" mt="1602156106292" redirect="true"/>
+  <file name="cards.html" crc="3926580137" seo="true" mt="1602156178511" redirect="true"/>
+  <file name="project-haven.html" crc="4004708938" seo="true" mt="1602156326751" redirect="true"/>
 </manifest>
