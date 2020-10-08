@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602156426404">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602169961716">
   <folder name="css">
     <file name="site_global.css" crc="3797272740"/>
     <file name="index.css" crc="3790636093" ref="index"/>
-    <file name="cards.css" crc="468457305" ref="cards"/>
-    <file name="quick-tour.css" crc="276229442" ref="quick-tour"/>
-    <file name="nomq_quick-tour.css" crc="3796056921" ref="quick-tour"/>
-    <file name="project-haven.css" crc="425714161" ref="project-haven"/>
+    <file name="cards.css" crc="279002341" ref="cards"/>
+    <file name="quick-tour.css" crc="3802510321" ref="quick-tour"/>
+    <file name="nomq_quick-tour.css" crc="3873293369" ref="quick-tour"/>
+    <file name="project-haven.css" crc="200228291" ref="project-haven"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quick-tour:cards:project-haven"/>
@@ -37,16 +37,16 @@
       <caption webpage="quick-tour" alt=""/>
       <caption webpage="quick-tour" alt=""/>
     </file>
-    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="486821503" seo="true" ref="cards">
+    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="226230603" seo="true" ref="cards">
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="artboard 1-crop-u979.jpg" crc="150254806" seo="true" ref="cards">
+    <file name="artboard 1-crop-u979.jpg" crc="3758349546" seo="true" ref="cards">
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="artboard 2-crop-u999.jpg" crc="447941906" seo="true" ref="cards">
+    <file name="artboard 2-crop-u999.jpg" crc="75767637" seo="true" ref="cards">
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="154853549" seo="true" ref="cards">
+    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="407447714" seo="true" ref="cards">
       <caption webpage="cards" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="cards"/>
@@ -95,9 +95,27 @@
     <file name="presindd axis-crop-u1533.jpg" crc="105969374" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
+    <file name="base-crop-u1798.jpg" crc="3838842640" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
+    </file>
+    <file name="bigpïcture-crop-u2147.jpg" crc="4014729790" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
+    </file>
+    <file name="closeupuse-crop-u2167.jpg" crc="3817180064" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
+    </file>
+    <file name="makingof-crop-u2187.jpg" crc="4103525603" seo="true" ref="cards">
+      <caption webpage="cards" alt=""/>
+    </file>
+    <file name="romainpropre.jpg" crc="3828671067" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="romaindos.jpg" crc="3823341691" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="348178159" seo="true" mt="1602156084182" redirect="true"/>
-  <file name="quick-tour.html" crc="341726110" seo="true" mt="1602156106292" redirect="true"/>
-  <file name="cards.html" crc="3926580137" seo="true" mt="1602156178511" redirect="true"/>
-  <file name="project-haven.html" crc="4004708938" seo="true" mt="1602156326751" redirect="true"/>
+  <file name="quick-tour.html" crc="4185234298" seo="true" mt="1602158272545" redirect="true"/>
+  <file name="cards.html" crc="4220657729" seo="true" mt="1602169939697" redirect="true"/>
+  <file name="project-haven.html" crc="166726757" seo="true" mt="1602169589454" redirect="true"/>
 </manifest>
