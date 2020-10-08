@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602169961716">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602172410622">
   <folder name="css">
     <file name="site_global.css" crc="3797272740"/>
     <file name="index.css" crc="3790636093" ref="index"/>
     <file name="cards.css" crc="279002341" ref="cards"/>
-    <file name="quick-tour.css" crc="3802510321" ref="quick-tour"/>
-    <file name="nomq_quick-tour.css" crc="3873293369" ref="quick-tour"/>
-    <file name="project-haven.css" crc="200228291" ref="project-haven"/>
+    <file name="quick-tour.css" crc="3932093758" ref="quick-tour"/>
+    <file name="nomq_quick-tour.css" crc="80860782" ref="quick-tour"/>
+    <file name="project-haven.css" crc="13400061" ref="project-haven"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quick-tour:cards:project-haven"/>
@@ -14,18 +14,18 @@
     <file name="museconfig.js" crc="380897831" ref="index:quick-tour:cards:project-haven"/>
     <file name="require.js" crc="4157109226" ref="index:quick-tour:cards:project-haven"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="quick-tour"/>
-    <file name="jquery.watch.js" crc="99325471" ref="cards"/>
-    <file name="webpro.js" crc="242022427" ref="cards"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="cards"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="cards"/>
-    <file name="touchswipe.js" crc="4066113679" ref="cards"/>
+    <file name="jquery.watch.js" crc="99325471" ref="cards:project-haven"/>
+    <file name="webpro.js" crc="242022427" ref="cards:project-haven"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="cards:project-haven"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="cards:project-haven"/>
+    <file name="touchswipe.js" crc="4066113679" ref="cards:project-haven"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="project-haven"/>
   </folder>
   <folder name="images">
     <file name="ppcrop.png" crc="4223827963" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:quick-tour:cards"/>
+    <file name="blank.gif" crc="4208392903" ref="index:quick-tour:cards:project-haven"/>
     <file name="testbg_1_3.gif" crc="138553531" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -49,7 +49,7 @@
     <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="407447714" seo="true" ref="cards">
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="cards"/>
+    <file name="loading.gif" crc="3815509949" ref="cards:project-haven"/>
     <file name="chronovectoonce.gif" crc="380350622" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
@@ -113,9 +113,99 @@
     <file name="romaindos.jpg" crc="3823341691" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
+    <file name="casque.jpg" crc="8873789" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide10-crop-u2245.jpg" crc="473917117" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide11-crop-u2534.jpg" crc="3815213002" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide12-crop-u2554.jpg" crc="3980954684" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide13-crop-u2574.jpg" crc="366944263" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide14-crop-u2594.jpg" crc="3794843576" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide15-crop-u2614.jpg" crc="3998384908" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide16-crop-u2634.jpg" crc="324721876" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide17-crop-u2654.jpg" crc="3916514690" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide18-crop-u2674.jpg" crc="293028727" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide19-crop-u2694.jpg" crc="3992408882" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide20-crop-u2714.jpg" crc="4201237388" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide21-crop-u2734.jpg" crc="293028727" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide22-crop-u2754.jpg" crc="253714922" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide23-crop-u2774.jpg" crc="4143355630" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide24-crop-u2794.jpg" crc="4279899101" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide25-crop-u2814.jpg" crc="414944660" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide26-crop-u2834.jpg" crc="3920668639" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide27-crop-u2854.jpg" crc="3782174782" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide28-crop-u2874.jpg" crc="409050830" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide29-crop-u2894.jpg" crc="385534853" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide30-crop-u2914.jpg" crc="3771786836" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide31-crop-u2934.jpg" crc="136494979" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide32-crop-u2954.jpg" crc="3822074027" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide33-crop-u2974.jpg" crc="4119998527" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide34-crop-u2994.jpg" crc="483551169" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide35-crop-u3014.jpg" crc="4207263123" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide36-crop-u3034.jpg" crc="3793435222" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide37-crop-u3054.jpg" crc="503447138" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="slide38-crop-u3074.jpg" crc="3939544893" seo="true" ref="project-haven">
+      <caption webpage="project-haven" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="348178159" seo="true" mt="1602156084182" redirect="true"/>
-  <file name="quick-tour.html" crc="4185234298" seo="true" mt="1602158272545" redirect="true"/>
+  <file name="quick-tour.html" crc="3759780728" seo="true" mt="1602170811660" redirect="true"/>
   <file name="cards.html" crc="4220657729" seo="true" mt="1602169939697" redirect="true"/>
-  <file name="project-haven.html" crc="166726757" seo="true" mt="1602169589454" redirect="true"/>
+  <file name="project-haven.html" crc="3887082544" seo="true" mt="1602172306716" redirect="true"/>
 </manifest>
