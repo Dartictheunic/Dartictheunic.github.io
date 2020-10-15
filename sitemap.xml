@@ -2,58 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dartictheunic.github.io/index.html</loc>
-    <lastmod>2020-10-08</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/ppcrop.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dartictheunic.github.io/quick-tour.html</loc>
-    <lastmod>2020-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/gametodesign_5.gif</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/aaa.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/multiplicator_2.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dartictheunic.github.io/cards.html</loc>
-    <lastmod>2020-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/casque1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/artboard%201-crop-u979.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/casque2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/artboard%202-crop-u999.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/casque3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/team%20nudelsuppe%20-%20projet%20haven-crop-u1019.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/xp.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/base-crop-u1798.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/aaa2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/bigp%C3%AFcture-crop-u2147.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/base.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/closeupuse-crop-u2167.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/craft.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/makingof-crop-u2187.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/polish.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/use.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/base-crop-u3212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bigp%C3%AFcture-crop-u3210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/closeupuse-crop-u3214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/makingof-crop-u3216.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/project-haven.html</loc>
-    <lastmod>2020-10-08</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -166,6 +163,72 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/slide38-crop-u3074.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/home.html</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/ppcrop.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/old-tour.html</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/gametodesign_5.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/multiplicator_2.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/temp.html</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/artboard%201-crop-u979.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/artboard%202-crop-u999.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/team%20nudelsuppe%20-%20projet%20haven-crop-u1019.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/base-crop-u1798.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bigp%C3%AFcture-crop-u2147.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/closeupuse-crop-u2167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/makingof-crop-u2187.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/dump-n-bump.html</loc>
+    <lastmod>2020-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dartictheunic.github.io/about-me.html</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/artboard%201test-crop-u4324.png</image:loc>
     </image:image>
   </url>
 </urlset>

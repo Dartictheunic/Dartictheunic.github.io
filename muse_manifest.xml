@@ -1,55 +1,68 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602172410622">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602769022455">
   <folder name="css">
-    <file name="site_global.css" crc="3797272740"/>
-    <file name="index.css" crc="3790636093" ref="index"/>
-    <file name="cards.css" crc="279002341" ref="cards"/>
-    <file name="quick-tour.css" crc="3932093758" ref="quick-tour"/>
-    <file name="nomq_quick-tour.css" crc="80860782" ref="quick-tour"/>
-    <file name="project-haven.css" crc="13400061" ref="project-haven"/>
+    <file name="site_global.css" crc="534391263"/>
+    <file name="index.css" crc="157375603" ref="index"/>
+    <file name="project-haven.css" crc="178532734" ref="project-haven"/>
+    <file name="home.css" crc="357774644" ref="home"/>
+    <file name="old-tour.css" crc="4143258958" ref="old-tour"/>
+    <file name="nomq_old-tour.css" crc="80860782" ref="old-tour"/>
+    <file name="temp.css" crc="3924481727" ref="temp"/>
+    <file name="about-me.css" crc="4092361462" ref="about-me"/>
+    <file name="dump-n-bump.css" crc="4254612778" ref="dump-n-bump"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quick-tour:cards:project-haven"/>
-    <file name="museutils.js" crc="3803043152" ref="index:quick-tour:cards:project-haven"/>
-    <file name="whatinput.js" crc="86476730" ref="index:quick-tour:cards:project-haven"/>
-    <file name="museconfig.js" crc="380897831" ref="index:quick-tour:cards:project-haven"/>
-    <file name="require.js" crc="4157109226" ref="index:quick-tour:cards:project-haven"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="quick-tour"/>
-    <file name="jquery.watch.js" crc="99325471" ref="cards:project-haven"/>
-    <file name="webpro.js" crc="242022427" ref="cards:project-haven"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="cards:project-haven"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="cards:project-haven"/>
-    <file name="touchswipe.js" crc="4066113679" ref="cards:project-haven"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="museutils.js" crc="3803043152" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="museconfig.js" crc="380897831" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="require.js" crc="4157109226" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="old-tour"/>
+    <file name="jquery.watch.js" crc="99325471" ref="project-haven:temp:index"/>
+    <file name="webpro.js" crc="242022427" ref="project-haven:temp:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="project-haven:temp:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="project-haven:temp:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="project-haven:temp:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="project-haven"/>
   </folder>
   <folder name="images">
-    <file name="ppcrop.png" crc="4223827963" seo="true" ref="index">
+    <file name="ppcrop.png" crc="4223827963" seo="true" ref="home">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:quick-tour:cards:project-haven"/>
-    <file name="testbg_1_3.gif" crc="138553531" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:project-haven:home:old-tour:temp"/>
+    <file name="testbg_1_3.gif" crc="138553531" ref="home">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="gametodesign_5.gif" crc="83886350" seo="true" ref="quick-tour">
+    <file name="gametodesign_5.gif" crc="83886350" seo="true" ref="old-tour">
+      <caption webpage="old-tour" alt=""/>
+      <caption webpage="old-tour" alt=""/>
       <caption webpage="quick-tour" alt=""/>
       <caption webpage="quick-tour" alt=""/>
     </file>
-    <file name="multiplicator_2.gif" crc="3918183670" seo="true" ref="quick-tour">
+    <file name="multiplicator_2.gif" crc="3918183670" seo="true" ref="old-tour">
+      <caption webpage="old-tour" alt=""/>
+      <caption webpage="old-tour" alt=""/>
       <caption webpage="quick-tour" alt=""/>
       <caption webpage="quick-tour" alt=""/>
     </file>
-    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="226230603" seo="true" ref="cards">
+    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="226230603" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="artboard 1-crop-u979.jpg" crc="3758349546" seo="true" ref="cards">
+    <file name="artboard 1-crop-u979.jpg" crc="3758349546" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="artboard 2-crop-u999.jpg" crc="75767637" seo="true" ref="cards">
+    <file name="artboard 2-crop-u999.jpg" crc="75767637" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="407447714" seo="true" ref="cards">
+    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="407447714" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="cards:project-haven"/>
+    <file name="loading.gif" crc="3815509949" ref="project-haven:temp:index"/>
     <file name="chronovectoonce.gif" crc="380350622" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
@@ -95,16 +108,20 @@
     <file name="presindd axis-crop-u1533.jpg" crc="105969374" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="base-crop-u1798.jpg" crc="3838842640" seo="true" ref="cards">
+    <file name="base-crop-u1798.jpg" crc="3838842640" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="bigpïcture-crop-u2147.jpg" crc="4014729790" seo="true" ref="cards">
+    <file name="bigpïcture-crop-u2147.jpg" crc="4014729790" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="closeupuse-crop-u2167.jpg" crc="3817180064" seo="true" ref="cards">
+    <file name="closeupuse-crop-u2167.jpg" crc="3817180064" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
-    <file name="makingof-crop-u2187.jpg" crc="4103525603" seo="true" ref="cards">
+    <file name="makingof-crop-u2187.jpg" crc="4103525603" seo="true" ref="temp">
+      <caption webpage="temp" alt=""/>
       <caption webpage="cards" alt=""/>
     </file>
     <file name="romainpropre.jpg" crc="3828671067" ref="project-haven">
@@ -203,9 +220,62 @@
     <file name="slide38-crop-u3074.jpg" crc="3939544893" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
+    <file name="aaa.jpg" crc="4069951301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casque1.jpg" crc="4108870728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casque2.jpg" crc="3846659446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casque3.jpg" crc="3808727376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xp.jpg" crc="176531357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaa2.jpg" crc="508849532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="base.jpg" crc="4204609966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="craft.jpg" crc="147823945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polish.jpg" crc="228777992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="use.jpg" crc="3856135003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="base-crop-u3212.jpg" crc="3838842640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigpïcture-crop-u3210.jpg" crc="4014729790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="closeupuse-crop-u3214.jpg" crc="3817180064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="makingof-crop-u3216.jpg" crc="4103525603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1test-crop-u4324.png" crc="35508124" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="348178159" seo="true" mt="1602156084182" redirect="true"/>
-  <file name="quick-tour.html" crc="3759780728" seo="true" mt="1602170811660" redirect="true"/>
-  <file name="cards.html" crc="4220657729" seo="true" mt="1602169939697" redirect="true"/>
-  <file name="project-haven.html" crc="3887082544" seo="true" mt="1602172306716" redirect="true"/>
+  <file name="index.html" crc="3858939298" seo="true" mt="1602765365127" redirect="true"/>
+  <file name="project-haven.html" crc="492057221" seo="true" mt="1602765365131" redirect="true"/>
+  <file name="home.html" crc="4285443551" seo="true" mt="1602765365132" redirect="true"/>
+  <file name="old-tour.html" crc="480772703" seo="true" mt="1602765365140" redirect="true"/>
+  <file name="temp.html" crc="415230711" seo="true" mt="1602765365133" redirect="true"/>
+  <file name="dump-n-bump.html" crc="4121277676" seo="true" mt="1602579990005" redirect="false"/>
+  <file name="about-me.html" crc="4114802944" seo="true" mt="1602768684391" redirect="true"/>
 </manifest>
