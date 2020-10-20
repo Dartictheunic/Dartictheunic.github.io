@@ -1,21 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1602769022455">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1603212609477">
   <folder name="css">
     <file name="site_global.css" crc="534391263"/>
-    <file name="index.css" crc="157375603" ref="index"/>
+    <file name="index.css" crc="3948593474" ref="index"/>
     <file name="project-haven.css" crc="178532734" ref="project-haven"/>
     <file name="home.css" crc="357774644" ref="home"/>
     <file name="old-tour.css" crc="4143258958" ref="old-tour"/>
     <file name="nomq_old-tour.css" crc="80860782" ref="old-tour"/>
     <file name="temp.css" crc="3924481727" ref="temp"/>
-    <file name="about-me.css" crc="4092361462" ref="about-me"/>
+    <file name="about-me.css" crc="411196003" ref="about-me"/>
     <file name="dump-n-bump.css" crc="4254612778" ref="dump-n-bump"/>
+    <file name="kronos.css" crc="4254612778" ref="kronos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
-    <file name="museutils.js" crc="3803043152" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
-    <file name="whatinput.js" crc="86476730" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
-    <file name="museconfig.js" crc="380897831" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
-    <file name="require.js" crc="4157109226" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me:kronos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me:kronos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me:kronos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me:kronos"/>
+    <file name="require.js" crc="4157109226" ref="index:project-haven:home:old-tour:temp:dump-n-bump:about-me:kronos"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="old-tour"/>
     <file name="jquery.watch.js" crc="99325471" ref="project-haven:temp:index"/>
     <file name="webpro.js" crc="242022427" ref="project-haven:temp:index"/>
@@ -237,22 +238,17 @@
     </file>
     <file name="aaa2.jpg" crc="508849532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="base.jpg" crc="4204609966" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="craft.jpg" crc="147823945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="polish.jpg" crc="228777992" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="use.jpg" crc="3856135003" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="base-crop-u3212.jpg" crc="3838842640" seo="true" ref="index">
@@ -270,12 +266,28 @@
     <file name="artboard 1test-crop-u4324.png" crc="35508124" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
+    <file name="mapempathie.jpg" crc="3981958957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="personna.jpg" crc="3783669556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proto.jpg" crc="254958890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="userresearch.jpg" crc="519143593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vpc.jpg" crc="387135091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3858939298" seo="true" mt="1602765365127" redirect="true"/>
+  <file name="index.html" crc="148232059" seo="true" mt="1603212048862" redirect="true"/>
   <file name="project-haven.html" crc="492057221" seo="true" mt="1602765365131" redirect="true"/>
   <file name="home.html" crc="4285443551" seo="true" mt="1602765365132" redirect="true"/>
   <file name="old-tour.html" crc="480772703" seo="true" mt="1602765365140" redirect="true"/>
   <file name="temp.html" crc="415230711" seo="true" mt="1602765365133" redirect="true"/>
   <file name="dump-n-bump.html" crc="4121277676" seo="true" mt="1602579990005" redirect="false"/>
-  <file name="about-me.html" crc="4114802944" seo="true" mt="1602768684391" redirect="true"/>
+  <file name="about-me.html" crc="4225421378" seo="true" mt="1603210677416" redirect="true"/>
+  <file name="kronos.html" crc="4240774853" seo="true" mt="1603200408554" redirect="false"/>
 </manifest>
