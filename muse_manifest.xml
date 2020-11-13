@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1605260930089">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1605261401079">
   <folder name="css">
     <file name="site_global.css" crc="534391263"/>
     <file name="about-me.css" crc="4292390399" ref="about-me"/>
@@ -8,7 +8,7 @@
     <file name="home.css" crc="3995206731" ref="home"/>
     <file name="project-haven.css" crc="207106352" ref="project-haven"/>
     <file name="temp.css" crc="358653051" ref="temp"/>
-    <file name="index.css" crc="98190198" ref="index"/>
+    <file name="index.css" crc="3959426782" ref="index"/>
     <file name="kronos.css" crc="4254612778" ref="kronos"/>
   </folder>
   <folder name="scripts">
@@ -275,7 +275,7 @@
   <file name="old-tour.html" crc="1749441" seo="true" mt="1605260828215" redirect="true"/>
   <file name="temp.html" crc="3838849504" seo="true" mt="1605260827966" redirect="true"/>
   <file name="project-haven.html" crc="523160775" seo="true" mt="1605260920210" redirect="true"/>
-  <file name="index.html" crc="133071101" seo="true" mt="1605260818531" redirect="true"/>
+  <file name="index.html" crc="4249066426" seo="true" mt="1605261385037" redirect="true"/>
   <file name="dump-n-bump.html" crc="233173442" seo="true" mt="1605189577702" redirect="false"/>
   <file name="about-me.html" crc="91686869" seo="true" mt="1605190016254" redirect="true"/>
   <file name="kronos.html" crc="4097158844" seo="true" mt="1605189577702" redirect="false"/>
