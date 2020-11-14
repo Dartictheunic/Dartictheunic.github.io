@@ -11,15 +11,23 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "require.js", "about-me.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "require.js", "about-me.css"], "outOfDate":[]};
 </script>
   
   <title>About me</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=534391263"/>
-  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=4292390399" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444257652"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=220659697"/>
+  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=449753283" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=164456603" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/kRteEVaZqx8WdUFkTZ1uWHmk8c_W7tXnCt4UVNVXRNjfe7vgfJPoNbvPHQwDwD6UFQMtWDZyFQi8wDiqwejkjhJU5QJhw28KjQiqwQZRFQs8jAJueqX7OcsyS1sTjasGZWm0-Aw0Zh8X-YmKOc8zOesyS1sTjasGZWm0-Aw0Zh8X-YmKOc8zOYiaikoqjW4X-AFX-emudc8ROciTieyujKoTdkJ4dcNXdkuDjAoDH6GJa_CfIMMjgkMfH6GJhOCfIMMj2PMfP6sFiWF8qMeFnd1Ngb.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+  <script src="https://use.typekit.net/ik/I1czZ0T58BHRXW1b995fSqOhnGv9zqKZQsssIdUAH3wfeCSgfJPoNbvPHQwDwD6UFQMtWDZyFQi8wDiqwejkjhJU5QJhw28KjQiqwQZRFQs8jAJueqX7OcsyS1sTjasGZWm0-Aw0Zh8X-YmKOc8zOesyS1sTjasGZWm0-Aw0Zh8X-YmKOc8zOYiaikoqjW4X-AFX-emudc8ROciTieyujKoTdkJ4dcNXdkuDjAoDH6GJh_CfIMMjgPMfH6GJa_CfIMMjgkMfH6GJhdCfIMMjgfMfH6GJhOCfIMMj2PMfP6sFiWF8qMYMGS2Ngb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -28,129 +36,167 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clip_frame grpelem" id="u4324"><!-- image -->
-    <img class="block" id="u4324_img" src="images/artboard%201test-crop-u4324.png?crc=35508124" alt="" data-heightwidthratio="3.6376433785192908" data-image-width="1918" data-image-height="6977"/>
+   <div class="clearfix grpelem" id="pu7103"><!-- group -->
+    <div class="browser_width" id="u7103-bw">
+     <div id="u7103"><!-- simple frame --></div>
+    </div>
+    <div id="u5694-wrapper">
+     <a class="nonblock nontext clip_frame" id="u5694" href="index.html"><!-- image --><img class="block" id="u5694_img" src="images/fichier%203.png?crc=3862629694" alt="" data-heightwidthratio="0.8695652173913043" data-image-width="69" data-image-height="60"/></a>
+    </div>
+    <nav class="MenuBar clearfix" id="menuu5317"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u5325"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5326" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5327-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Home</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u5720"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5723" href="projects.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5726-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Projects</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u5461"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u5464" href="about-me.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5467-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>About me</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u5655"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5658" href="miscellaneous.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5661-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Miscellaneous</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u5577"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5578" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5579-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Contact</p></div></a>
+     </div>
+    </nav>
    </div>
-   <div class="clearfix grpelem" id="u4347-4"><!-- content -->
-    <p id="u4347-2"><span class="Heading" id="u4347">Hi, I'm Alexis</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4375-4"><!-- content -->
-    <p id="u4375-2"><span class="Heading" id="u4375">UX</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4393-4"><!-- content -->
-    <p id="u4393-2"><span class="Heading" id="u4393">Management</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4570-4"><!-- content -->
-    <p id="u4570-2"><span class="Heading" id="u4570">Design</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4576-4"><!-- content -->
-    <p id="u4576-2"><span class="Heading" id="u4576">Game Design</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4579-4"><!-- content -->
-    <p id="u4579-2"><span class="Heading" id="u4579">Prototyping</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4582-4"><!-- content -->
-    <p id="u4582-2"><span class="Heading" id="u4582">Methodology</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4588-4"><!-- content -->
-    <p id="u4588-2"><span class="Heading" id="u4588">Storytelling</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4353-7" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
-    <p id="u4353-2"><span class="Heading" id="u4353">I'm a UX student that's interested in a lot of things, from philosophy to neurosciences.</span></p>
-    <p id="u4353-3">&nbsp;</p>
-    <p id="u4353-5"><span class="Heading" id="u4353-4">I've prepared for you a list of my main hard skills, so you can have a grasp of my profile</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4378-4"><!-- content -->
-    <p id="u4378-2"><span class="Heading" id="u4378">student, as of now</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4396-6"><!-- content -->
-    <p id="u4396-2"><span class="Heading" id="u4396">&quot;An order given is half of the work done&quot;</span></p>
-    <p id="u4396-4"><span class="Heading" id="u4396-3">- Some old lady in a TV show</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4594-6"><!-- content -->
-    <p id="u4594-2"><span class="Heading" id="u4594">&quot;Design is not just what it looks and feels like. Design is how it works&quot;</span></p>
-    <p id="u4594-4"><span class="Heading" id="u4594-3">- Steve Jobs</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4705-6"><!-- content -->
-    <p id="u4705-2"><span class="Heading" id="u4705">&quot;Fun is just another word for learning&quot;</span></p>
-    <p id="u4705-4"><span class="Heading" id="u4705-3">-Raph Koster</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4711-6"><!-- content -->
-    <p id="u4711-2"><span class="Heading" id="u4711">&quot;When fixing problems, always do the least you can do&quot;</span></p>
-    <p id="u4711-4"><span class="Heading" id="u4711-3">- Steve Krug</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4717-6"><!-- content -->
-    <p id="u4717-2"><span class="Heading" id="u4717">&quot;If it's ready; test it. If it's not, test it anyway&quot;</span></p>
-    <p id="u4717-4"><span class="Heading" id="u4717-3">A saying we have in our class</span></p>
-   </div>
-   <div class="clearfix grpelem" id="u4671-22"><!-- content -->
-    <p>UX can be meaningless, it's not up to 1 person to &quot;do UX&quot;. It must be a <span id="u4671-2">collective effort</span> from a team, getting in the shoes of the users and solving their problems.</p>
-    <p>&nbsp;</p>
-    <p>I always try to explain my methodology, to <span id="u4671-7">answer the &quot;why&quot;s</span> from everyone because in the end what matters is that everyone feels involved and motivated.</p>
-    <p>&nbsp;</p>
-    <p>I don't think UX is a magical way to a good design, but I do believe that the iterative process with users allows for earlier <span id="u4671-12">detection of design flaws</span>, and avoid huge time losses on the long run.</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p id="u4671-18">Main skills : User research, usability tests, user journeys, ergonomy, ethnography</p>
-    <p id="u4671-19">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clearfix grpelem" id="u4680-20"><!-- content -->
-    <p>It's hard to talk about management without falling in the <span id="u4680-2">&quot;LinkedIn inspirationnal post&quot;</span> hole. I do believe a good manager changes the face of a project, makes it more livable for the people working on it and can turn a huge deadline to a <span id="u4680-4">doable milestone</span>.</p>
-    <p>&nbsp;</p>
-    <p>I think the hardest part of managing is <span id="u4680-9">keeping everybody motivated</span>, making everyone feel listened to and that their advice matters. When managing, those are the points I focus the most on, because I think they are the key points to people <span id="u4680-11">doing their best.</span></p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p id="u4680-16">Main skills: zetetic, planning management, communication, profile assessing</p>
-    <p id="u4680-17">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clearfix grpelem" id="u4687-23"><!-- content -->
-    <p>When I talk about design (and I think I'm not alone in this one); people tend to think I create furniture. I usually answer to that by saying that<span id="u4687-2"> design is about solving problems</span>.</p>
-    <p>&nbsp;</p>
-    <p>I discovered the world of design when I was still doing video games, and I quickly liked it because it felt to me like becoming a designer would allow me to<span id="u4687-7"> shape the world of tomorrow</span>.</p>
-    <p>&nbsp;</p>
-    <p>A product design teacher once said is that a <span id="u4687-12">UX designer is a &quot;whatever designer&quot;</span>. Well I think that it's quite accurate, I like to work in different fields, for now I've tackled automotive, healthcare, new technologies and education; and I'd like to open up to even more things. That's what I like about design: it allows me to <span id="u4687-14">stay curious about everything</span>.</p>
-    <p>&nbsp;</p>
-    <p id="u4687-19">Main skills: interviews, workshop, creativity facilitation, analysis, technical development, prototyping</p>
-    <p id="u4687-20">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clearfix grpelem" id="u4702-21"><!-- content -->
-    <p>Fun fact: when I used to talk about game design people used to think I create virtual furniture.</p>
-    <p>&nbsp;</p>
-    <p>Game Design is about<span id="u4702-5"> teaching in a fundamental way</span>. When you play a game, you have to learn how it works, what you can and can't do, what is happening etc... In video games, those things can be very abstract, and the work of the game designer becomes to<span id="u4702-7"> teach those notions without the player even noticing</span>.</p>
-    <p>&nbsp;</p>
-    <p>The theory of Flow by Jenovah Chen is what I believe makes designing game so incredible. Finding the balance between everything you'd like the player to experience and their perception of the game is a very hard task that requires a lot of testing, but<span id="u4702-12"> it's worth when you see them have fun in it</span>.</p>
-    <p>&nbsp;</p>
-    <p id="u4702-17">Main skills: Ergonomy, cognitive behaviors, world design, storytelling, HLC, playtesting, monetization</p>
-    <p id="u4702-18">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clearfix grpelem" id="u4708-15"><!-- content -->
-    <p>Fun fact: when I used to talk about game design people used to think I create virtual furniture.</p>
-    <p>&nbsp;</p>
-    <p>Game Design is about teaching in a fundamental way. When you play a game, you have to learn how it works, what you can and can't do, what is happening etc... In video games, those things can be very abstract, and the work of the game designer becomes to teach those notions without the player even noticing.</p>
-    <p>&nbsp;</p>
-    <p>The theory of Flow by Jenovah Chen is what I believe makes designing game so incredible. Finding the balance between everything you'd like the player to experience and their perception of the game is a very hard task that requires a lot of testing, but it's worth when you see them have fun in it.</p>
-    <p>&nbsp;</p>
-    <p id="u4708-11">Main skills: Ergonomy, cognitive behaviors, world design, storytelling, HLC, playtesting</p>
-    <p id="u4708-12">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clearfix grpelem" id="u4714-15"><!-- content -->
-    <p>Fun fact: when I used to talk about game design people used to think I create virtual furniture.</p>
-    <p>&nbsp;</p>
-    <p>Game Design is about teaching in a fundamental way. When you play a game, you have to learn how it works, what you can and can't do, what is happening etc... In video games, those things can be very abstract, and the work of the game designer becomes to teach those notions without the player even noticing.</p>
-    <p>&nbsp;</p>
-    <p>The theory of Flow by Jenovah Chen is what I believe makes designing game so incredible. Finding the balance between everything you'd like the player to experience and their perception of the game is a very hard task that requires a lot of testing, but it's worth when you see them have fun in it.</p>
-    <p>&nbsp;</p>
-    <p id="u4714-11">Main skills: Ergonomy, cognitive behaviors, world design, storytelling, HLC, playtesting</p>
-    <p id="u4714-12">&nbsp;</p>
-    <p>&nbsp;</p>
-   </div>
-   <div class="clip_frame grpelem" id="u4840"><!-- image -->
-    <img class="block" id="u4840_img" src="images/bottomretouche.jpg?crc=4230379891" alt="" data-heightwidthratio="0.6729166666666667" data-image-width="1920" data-image-height="1292"/>
+   <div class="clearfix grpelem" id="pu7716"><!-- group -->
+    <div class="clip_frame grpelem" id="u7716"><!-- image -->
+     <img class="block" id="u7716_img" src="images/c%20bon-crop-u7716.png?crc=4004599125" alt="" data-heightwidthratio="3.6375" data-image-width="1920" data-image-height="6984"/>
+    </div>
+    <div class="clearfix grpelem" id="u4347-4"><!-- content -->
+     <p id="u4347-2"><span class="Heading" id="u4347">Hi, I'm Alexis</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u7754-4"><!-- content -->
+     <p id="u7754-2"><span class="Heading" id="u7754">Thank you</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4375-4"><!-- content -->
+     <p id="u4375-2"><span class="Heading" id="u4375">UX</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4393-4"><!-- content -->
+     <p id="u4393-2"><span class="Heading" id="u4393">Management</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4570-4"><!-- content -->
+     <p id="u4570-2"><span class="Heading" id="u4570">Design</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4576-4"><!-- content -->
+     <p id="u4576-2"><span class="Heading" id="u4576">Game Design</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4579-4"><!-- content -->
+     <p id="u4579-2"><span class="Heading" id="u4579">Prototyping</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4582-4"><!-- content -->
+     <p id="u4582-2"><span class="Heading" id="u4582">Methodology</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4588-4"><!-- content -->
+     <p id="u4588-2"><span class="Heading" id="u4588">Storytelling</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4353-7" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
+     <p id="u4353-2"><span class="Heading" id="u4353">I'm a UX student that's interested in a lot of things, from philosophy to neurosciences.</span></p>
+     <p id="u4353-3">&nbsp;</p>
+     <p id="u4353-5"><span class="Heading" id="u4353-4">I've prepared for you a list of my main hard skills, so you can have a grasp of my profile</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u7757-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
+     <p id="u7757-2"><span class="Heading" id="u7757">For reading until there, if you're interested I'd be glad to connect with you !</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4378-4"><!-- content -->
+     <p id="u4378-2"><span class="Heading" id="u4378">student, as of now</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4396-6"><!-- content -->
+     <p id="u4396-2"><span class="Heading" id="u4396">&quot;An order given is half of the work done&quot;</span></p>
+     <p id="u4396-4"><span class="Heading" id="u4396-3">- Some old lady in a TV show</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4594-6"><!-- content -->
+     <p id="u4594-2"><span class="Heading" id="u4594">&quot;Design is not just what it looks and feels like. Design is how it works&quot;</span></p>
+     <p id="u4594-4"><span class="Heading" id="u4594-3">- Steve Jobs</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4705-6"><!-- content -->
+     <p id="u4705-2"><span class="Heading" id="u4705">&quot;Fun is just another word for learning&quot;</span></p>
+     <p id="u4705-4"><span class="Heading" id="u4705-3">- Raph Koster</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4717-6"><!-- content -->
+     <p id="u4717-2"><span class="Heading" id="u4717">&quot;If you feel like you're going to crash in a wall, the best option is to go in it as fast as possible&quot;</span></p>
+     <p id="u4717-4"><span class="Heading" id="u4717-3">- Me</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u7739-6"><!-- content -->
+     <p id="u7739-2"><span class="Heading" id="u7739">&quot;If it's ready; test it. If it's not, test it anyway&quot;</span></p>
+     <p id="u7739-4"><span class="Heading" id="u7739-3">&nbsp;- Unknown source</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u7748-6"><!-- content -->
+     <p id="u7748-2"><span class="Heading" id="u7748">&quot;A good project is worth nothing if nobody hears about it&quot;</span></p>
+     <p id="u7748-4"><span class="Heading" id="u7748-3">- Unknown source</span></p>
+    </div>
+    <div class="clearfix grpelem" id="u4671-20"><!-- content -->
+     <p>UX can be meaningless, it's not up to 1 person to &quot;do UX&quot;. It must be a <span id="u4671-2">collective effort</span> from a team, getting in the shoes of the users and solving their problems.</p>
+     <p>&nbsp;</p>
+     <p>I always try to explain my methodology, to <span id="u4671-7">answer the &quot;why&quot;s</span> from everyone because in the end what matters is that everyone feels involved and motivated.</p>
+     <p>&nbsp;</p>
+     <p>I don't think UX is a magical way to a good design, but I do believe that the iterative process with users allows for earlier <span id="u4671-12">detection of design flaws</span>, and avoid huge time losses on the long run.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p id="u4671-18">Main skills : User research, usability tests, user journeys, ergonomy, ethnography</p>
+    </div>
+    <div class="clearfix grpelem" id="u4680-20"><!-- content -->
+     <p id="u4680-6">It's hard to talk about management without falling in the <span id="u4680-2">&quot;LinkedIn inspirationnal post&quot;</span> hole. I do believe a good manager changes the face of a project, makes it more livable for the people working on it and can turn a huge deadline to a <span id="u4680-4">doable milestone</span>.</p>
+     <p id="u4680-7">&nbsp;</p>
+     <p id="u4680-12">I think the hardest part of managing is <span id="u4680-9">keeping everybody motivated</span>, making everyone feel listened to and that their advice matters. When managing, those are the points I focus the most on, because I think they are the key points to people <span id="u4680-11">doing their best.</span></p>
+     <p id="u4680-13">&nbsp;</p>
+     <p id="u4680-14">&nbsp;</p>
+     <p id="u4680-16">Main skills: zetetic, planning management, communication, profile assessing</p>
+     <p id="u4680-17">&nbsp;</p>
+     <p>&nbsp;</p>
+    </div>
+    <div class="clearfix grpelem" id="u4687-23"><!-- content -->
+     <p id="u4687-4">When I talk about design (and I think I'm not alone in this one); people tend to think I create furniture. I usually answer to that by saying that<span id="u4687-2"> design is about solving problems</span>.</p>
+     <p id="u4687-5">&nbsp;</p>
+     <p id="u4687-9">I discovered the world of design when I was still doing video games, and I quickly liked it because it felt to me like becoming a designer would allow me to<span id="u4687-7"> shape the world of tomorrow</span>.</p>
+     <p id="u4687-10">&nbsp;</p>
+     <p id="u4687-16">A product design teacher once said is that a <span id="u4687-12">UX designer is a &quot;whatever designer&quot;</span>. Well I think that it's quite accurate, I like to work in different fields, for now I've tackled automotive, healthcare, new technologies and education; and I'd like to open up to even more things. That's what I like about design: it allows me to <span id="u4687-14">stay curious about everything</span>.</p>
+     <p id="u4687-17">&nbsp;</p>
+     <p id="u4687-19">Main skills: interviews, workshop, creativity facilitation, analysis, technical development, prototyping</p>
+     <p id="u4687-20">&nbsp;</p>
+     <p>&nbsp;</p>
+    </div>
+    <div class="clearfix grpelem" id="u4702-21"><!-- content -->
+     <p id="u4702-2">Fun fact: when I used to talk about game design people used to think I create virtual furniture.</p>
+     <p id="u4702-3">&nbsp;</p>
+     <p id="u4702-9">Game Design is about<span id="u4702-5"> teaching in a fundamental way</span>. When you play a game, you have to learn how it works, what you can and can't do, what is happening etc... In video games, those things can be very abstract, and the work of the game designer becomes to<span id="u4702-7"> teach those notions without the player even noticing</span>.</p>
+     <p id="u4702-10">&nbsp;</p>
+     <p id="u4702-14">The theory of Flow by Jenovah Chen is what I believe makes designing game so incredible. Finding the balance between everything you'd like the player to experience and their perception of the game is a very hard task that requires a lot of testing, but<span id="u4702-12"> it's worth when you see them have fun in it</span>.</p>
+     <p id="u4702-15">&nbsp;</p>
+     <p id="u4702-17">Main skills: Ergonomy, cognitive behaviors, world design, storytelling, HLC, playtesting, monetization</p>
+     <p id="u4702-18">&nbsp;</p>
+     <p>&nbsp;</p>
+    </div>
+    <div class="clearfix grpelem" id="u4714-18"><!-- content -->
+     <p>When working, due to my game design past, I tend to have a very<span id="u4714-2"> iterative approach</span>. I think it's allright to go in one direction and to realize it wasn't maybe the best one as fast as possible.</p>
+     <p>&nbsp;</p>
+     <p>I always favor going back and forth between designing, prototyping and getting feedbacks to make sure I'm <span id="u4714-7">going in the right direction.</span></p>
+     <p>&nbsp;</p>
+     <p>In groups, I try to bring in new approaches to work, for example, I made an app to <span id="u4714-11">adapt a game design tool</span> (the design lenses) to the &quot;classic&quot; design field.</p>
+     <p>&nbsp;</p>
+     <p id="u4714-16">Main processes: Google's sprint, agile process, creativity tools (hats, role play, lenses), quick prototyping, feedbacks</p>
+    </div>
+    <div class="clearfix grpelem" id="u7745-13"><!-- content -->
+     <p>I both love and hate prototyping. You feel great because you're finally shaping your ideas, it's the moment in a project where you can see what you've done until now. But it also means you now have to show it to people, and there is no way to know how it's going to go.</p>
+     <p>&nbsp;</p>
+     <p>But despite that, as I stated earlier, I truly believe prototyping your ideas is the only way to know their worth.</p>
+     <p>&nbsp;</p>
+     <p>It doesn't matter the quality of your prototype, you're always going to be able to gather insightful feedbacks from showing it, at least more than if you tried to judge by yourself.</p>
+     <p>&nbsp;</p>
+     <p id="u7745-11">Main skills: VR, Programming, Wireframing, Card sorting, Crafting, Electronics</p>
+    </div>
+    <div class="clearfix grpelem" id="u7751-13"><!-- content -->
+     <p><span id="u7751">In each and every project I work on, I try to create either a Process or a Trailer video. I think it's very important to communicate on what you're doing, especially in the UX field.</span></p>
+     <p>&nbsp;</p>
+     <p><span id="u7751-4">One image is worth a thousand words, and a short video will create empathy for your project, as well as informing more effectively than with just a speech.</span></p>
+     <p>&nbsp;</p>
+     <p><span id="u7751-7">For this reason, when looking at my project, you'll most likely see at least one video (the usual exceptions being short projects where the deadlines don't allow for it)</span></p>
+     <p>&nbsp;</p>
+     <p id="u7751-11">Main skills: Video editing, scripting, motion design, recording, storyboarding</p>
+    </div>
+    <a class="nonblock nontext rounded-corners clearfix grpelem" id="u7766-5" href="contact.html"><!-- content --><p>&nbsp;</p><p>Contact me</p></a>
    </div>
   </div>
   <!-- Other scripts -->
@@ -164,11 +210,12 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Certains fichiers sur le serveur sont peut-être manquants ou incorrects. Videz le cache du navigateur et réessayez. Si le problème persiste, contactez le créateur du site.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
