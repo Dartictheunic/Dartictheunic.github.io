@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dartictheunic.github.io/index.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/home.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/old-tour.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/temp.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/project-haven.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -105,99 +105,99 @@
       <image:loc>http://dartictheunic.github.io/images/casque.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide10-crop-u2245.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide11-crop-u2534.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide12-crop-u2554.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide13-crop-u2574.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide14-crop-u2594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide15-crop-u2614.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide16-crop-u2634.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide17-crop-u2654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide18-crop-u2674.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide19-crop-u2694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide20-crop-u2714.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide21-crop-u2734.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide22-crop-u2754.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide23-crop-u2774.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide24-crop-u2794.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide25-crop-u2814.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide26-crop-u2834.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide27-crop-u2854.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide28-crop-u2874.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide29-crop-u2894.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide30-crop-u2914.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide31-crop-u2934.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide32-crop-u2954.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide33-crop-u2974.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide34-crop-u2994.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide35-crop-u3014.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide36-crop-u3034.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide37-crop-u3054.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/slide38-crop-u3074.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/fichier%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide36.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/slide38.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/dump-n-bump.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/contact.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -215,7 +215,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/about-me.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -227,7 +227,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/kronos.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -236,16 +236,232 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/miscellaneous.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/fichier%203.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/final.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/sketches.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockups-crop-u10410.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/materials.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/tech%20pack.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/notice-crop-u10416.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/youtube-crop-u10406.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/stats.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/empathy%20map-crop-u10420.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/post%20its.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/workshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockup%20app%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%201_1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockup%20app%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%202_1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/concept.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/final-crop-u10387.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/empathy%20map-crop-u10377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%202_1-crop-u10371.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/sketches-crop-u10391.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/post%20its-crop-u10383.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/concept-crop-u10363.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockups-crop-u10367.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/workshop-crop-u10365.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/materials-crop-u10375.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%201-crop-u10379.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/tech%20pack-crop-u10395.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockup%20app%202-crop-u10373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/notice-crop-u10385.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%201_1-crop-u10381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/youtube-crop-u10389.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/app%202-crop-u10369.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/stats-crop-u10397.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/mockup%20app%201-crop-u10393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m47s017.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h14m55s774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m07s127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m26s081.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m47s707.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h14m22s868.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h08m45s772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m19s113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h15m29s479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h15m52s196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h16m11s102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m30s802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m38s811.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m25s231.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m38s412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m47s017-crop-u11295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h15m29s479-crop-u11415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h14m55s774-crop-u11395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h15m52s196-crop-u11435.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m07s127-crop-u11315.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h16m11s102-crop-u11455.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m26s081-crop-u11335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m30s802-crop-u11255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h12m47s707-crop-u11355.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h10m38s811-crop-u11275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h14m22s868-crop-u11375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m25s231-crop-u11215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h08m45s772-crop-u10833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m38s412-crop-u11235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m19s113-crop-u11195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/bigpicture-crop-u12288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd9-crop-u12547.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd10-crop-u12567.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd13-crop-u12587.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd17-crop-u12607.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd22-crop-u12627.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/projects.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
