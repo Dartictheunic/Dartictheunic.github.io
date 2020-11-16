@@ -251,7 +251,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/miscellaneous.html</loc>
-    <lastmod>2020-11-15</lastmod>
+    <lastmod>2020-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -466,6 +466,9 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/en%20chantier.png</image:loc>
     </image:image>
   </url>
   <url>
