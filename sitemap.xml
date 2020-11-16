@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/project-haven.html</loc>
-    <lastmod>2020-11-15</lastmod>
+    <lastmod>2020-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,14 +194,20 @@
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/slide38.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/en%20chantier.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/dump-n-bump.html</loc>
-    <lastmod>2020-11-15</lastmod>
+    <lastmod>2020-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/fichier%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/en%20chantier.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -212,10 +218,16 @@
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/fichier%203.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/cvvo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/cvvf.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dartictheunic.github.io/about-me.html</loc>
-    <lastmod>2020-11-15</lastmod>
+    <lastmod>2020-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -227,11 +239,14 @@
   </url>
   <url>
     <loc>http://dartictheunic.github.io/kronos.html</loc>
-    <lastmod>2020-11-15</lastmod>
+    <lastmod>2020-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/fichier%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/en%20chantier.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -249,25 +264,16 @@
       <image:loc>http://dartictheunic.github.io/images/sketches.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/mockups-crop-u10410.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/materials.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/tech%20pack.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/notice-crop-u10416.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/youtube-crop-u10406.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/stats.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/empathy%20map-crop-u10420.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/post%20its.png</image:loc>
@@ -303,9 +309,6 @@
       <image:loc>http://dartictheunic.github.io/images/empathy%20map-crop-u10377.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/app%202_1-crop-u10371.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dartictheunic.github.io/images/sketches-crop-u10391.png</image:loc>
     </image:image>
     <image:image>
@@ -331,15 +334,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/mockup%20app%202-crop-u10373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/notice-crop-u10385.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/app%201_1-crop-u10381.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dartictheunic.github.io/images/youtube-crop-u10389.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dartictheunic.github.io/images/app%202-crop-u10369.png</image:loc>
@@ -441,22 +435,37 @@
       <image:loc>http://dartictheunic.github.io/images/vlcsnap-2020-11-15-17h09m19s113-crop-u11195.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/bigpicture-crop-u12288.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/mockups.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd9-crop-u12547.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/notice.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd10-crop-u12567.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/empathy%20map.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd13-crop-u12587.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/notice78x54.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd17-crop-u12607.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/youtube74x54.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd22-crop-u12627.jpg</image:loc>
+      <image:loc>http://dartictheunic.github.io/images/bigpicture.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dartictheunic.github.io/images/presentation%20-%20methodo%20isd22.jpg</image:loc>
     </image:image>
   </url>
   <url>
