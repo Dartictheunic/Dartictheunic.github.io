@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1605523676793">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1605704054767">
   <folder name="assets">
     <file name="program-files-(x86).lnk" crc="331033765" seo="true" mt="1407596407000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="534391263"/>
-    <file name="about-me.css" crc="4104724501" ref="about-me"/>
-    <file name="old-tour.css" crc="129448529" ref="old-tour"/>
+    <file name="site_global.css" crc="444257652"/>
+    <file name="about-me.css" crc="488426993" ref="about-me"/>
+    <file name="old-tour.css" crc="324752070" ref="old-tour"/>
     <file name="nomq_old-tour.css" crc="4103443049" ref="old-tour"/>
     <file name="dump-n-bump.css" crc="11904895" ref="dump-n-bump"/>
-    <file name="home.css" crc="4056267029" ref="home"/>
-    <file name="project-haven.css" crc="3808010104" ref="project-haven"/>
-    <file name="temp.css" crc="4028892399" ref="temp"/>
-    <file name="index.css" crc="191137136" ref="index"/>
-    <file name="kronos.css" crc="3827372655" ref="kronos"/>
-    <file name="master_a-master.css" crc="204855773" ref="projects:contact:dump-n-bump:temp:home:about-me:project-haven:old-tour:miscellaneous:kronos:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="164456603" ref="projects:contact:temp:home:old-tour:index"/>
-    <file name="projects.css" crc="3771279300" ref="projects"/>
-    <file name="contact.css" crc="390717975" ref="contact"/>
-    <file name="miscellaneous.css" crc="3937903803" ref="miscellaneous"/>
+    <file name="home.css" crc="216911573" ref="home"/>
+    <file name="project-haven.css" crc="174584121" ref="project-haven"/>
+    <file name="temp.css" crc="406010185" ref="temp"/>
+    <file name="index.css" crc="211055212" ref="index"/>
+    <file name="kronos.css" crc="132075135" ref="kronos"/>
+    <file name="master_a-master.css" crc="204145204" ref="projects:contact:dump-n-bump:temp:home:about-me:project-haven:old-tour:miscellaneous:kronos:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="164456603" ref="projects:contact:temp:home:old-tour:index:miscellaneous:project-haven:about-me:dump-n-bump:kronos"/>
+    <file name="projects.css" crc="184011807" ref="projects"/>
+    <file name="contact.css" crc="459167705" ref="contact"/>
+    <file name="miscellaneous.css" crc="497315238" ref="miscellaneous"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects"/>
@@ -31,7 +31,7 @@
     <file name="musewpslideshow.js" crc="244150766" ref="temp:project-haven:projects:miscellaneous"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="temp:project-haven:projects:miscellaneous"/>
     <file name="touchswipe.js" crc="3888935200" ref="temp:project-haven:projects:miscellaneous"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="project-haven"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="project-haven:about-me:miscellaneous:projects"/>
     <file name="jquery.musemenu.js" crc="4139692962" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects"/>
     <file name="html5shiv.js" crc="4241844378" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects"/>
   </folder>
@@ -200,16 +200,16 @@
       <caption webpage="projects" alt=""/>
     </file>
     <file name="fichier 3.png" crc="3862629694" seo="true" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="project-haven" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="dump-n-bump" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="about-me" alt=""/>
       <caption webpage="kronos" alt=""/>
+      <caption webpage="project-haven" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="dump-n-bump" alt=""/>
+      <caption webpage="projects" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="temp" alt=""/>
       <caption webpage="old-tour" alt=""/>
       <caption webpage="old-tour" alt=""/>
     </file>
@@ -286,9 +286,6 @@
       <caption webpage="project-haven" alt=""/>
     </file>
     <file name="slide33.jpg" crc="503638631" seo="true" ref="project-haven">
-      <caption webpage="project-haven" alt=""/>
-    </file>
-    <file name="slide34.jpg" crc="4241518379" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
     <file name="slide35.jpg" crc="4226836003" seo="true" ref="project-haven">
@@ -521,22 +518,76 @@
     <file name="presentation - methodo isd22.jpg" crc="3973985234" seo="true" ref="miscellaneous">
       <caption webpage="miscellaneous" alt=""/>
     </file>
-    <file name="en chantier.png" crc="133774410" seo="true" ref="project-haven:dump-n-bump:kronos:miscellaneous">
+    <file name="en chantier.png" crc="133774410" seo="true" ref="project-haven:dump-n-bump:kronos">
       <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="project-haven" alt=""/>
       <caption webpage="kronos" alt=""/>
+      <caption webpage="project-haven" alt=""/>
       <caption webpage="dump-n-bump" alt=""/>
     </file>
+    <file name="plan de travail 1.png" crc="4226058826" ref="project-haven:about-me:miscellaneous:projects">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="sqd.png" crc="4141419865" ref="project-haven:about-me:miscellaneous:projects">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="project-haven" alt=""/>
+    </file>
+    <file name="timetrouble.jpg" crc="176121727" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="eclatefinal.png" crc="185570917" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="explo002.jpg" crc="499545012" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gard002.jpg" crc="4206144317" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="grootetigre002.png" crc="259867122" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="menu.jpg" crc="405873150" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1.gif" crc="3913238293" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="madeby.jpg" crc="3767793522" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1 copier 01_1.gif" crc="8347434" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1 copier 02_1.gif" crc="4142104589" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="menu-crop-u13824.jpg" crc="142067604" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="madeby-crop-u13804.jpg" crc="3761484822" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="digitalportrait.jpg" crc="3807606886" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
   </folder>
-  <file name="home.html" crc="145613375" seo="true" mt="1605472843378" redirect="true"/>
-  <file name="old-tour.html" crc="454980594" seo="true" mt="1605472843378" redirect="true"/>
-  <file name="temp.html" crc="389141758" seo="true" mt="1605472843378" redirect="true"/>
-  <file name="project-haven.html" crc="3920427999" seo="true" mt="1605523288997" redirect="true"/>
-  <file name="index.html" crc="504680755" seo="true" mt="1605472843378" redirect="true"/>
-  <file name="dump-n-bump.html" crc="3762599216" seo="true" mt="1605523394196" redirect="true"/>
-  <file name="about-me.html" crc="528492194" seo="true" mt="1605523328014" redirect="true"/>
-  <file name="kronos.html" crc="4218607043" seo="true" mt="1605523272273" redirect="true"/>
-  <file name="contact.html" crc="3929257999" seo="true" mt="1605479488285" redirect="true"/>
-  <file name="miscellaneous.html" crc="375774702" seo="true" mt="1605523660702" redirect="true"/>
-  <file name="projects.html" crc="4082662677" seo="true" mt="1605472843378" redirect="true"/>
+  <file name="home.html" crc="3832147903" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="old-tour.html" crc="4218587380" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="temp.html" crc="499993964" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="project-haven.html" crc="202265805" seo="true" mt="1605559098413" redirect="true"/>
+  <file name="index.html" crc="4220608304" seo="true" mt="1605559285101" redirect="true"/>
+  <file name="dump-n-bump.html" crc="184247945" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="about-me.html" crc="488283053" seo="true" mt="1605559403931" redirect="true"/>
+  <file name="kronos.html" crc="4003892765" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="contact.html" crc="3932242432" seo="true" mt="1605558232781" redirect="true"/>
+  <file name="miscellaneous.html" crc="118275644" seo="true" mt="1605703756021" redirect="true"/>
+  <file name="projects.html" crc="76279712" seo="true" mt="1605558519399" redirect="true"/>
 </manifest>
