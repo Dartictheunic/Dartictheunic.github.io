@@ -1,99 +1,43 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1606318628641">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dartictheunic.github.io" resolutions="1x" timestamp="1687960428438">
+  <folder name="css">
+    <file name="site_global.css" crc="272864148"/>
+    <file name="master_a-master.css" crc="467491164" ref="projects:kronos:index:contact:dump-n-bump:miscellaneous:about-me:project-haven"/>
+    <file name="projects.css" crc="77434830" ref="projects"/>
+    <file name="kronos.css" crc="4139941699" ref="kronos"/>
+    <file name="index.css" crc="4265677980" ref="index"/>
+    <file name="contact.css" crc="4150799087" ref="contact"/>
+    <file name="dump-n-bump.css" crc="4139155883" ref="dump-n-bump"/>
+    <file name="miscellaneous.css" crc="246699013" ref="miscellaneous"/>
+    <file name="about-me.css" crc="446077787" ref="about-me"/>
+    <file name="project-haven.css" crc="184307411" ref="project-haven"/>
+  </folder>
   <folder name="assets">
     <file name="program-files-(x86).lnk" crc="331033765" seo="true" mt="1407596407000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="534391263"/>
-    <file name="about-me.css" crc="133259764" ref="about-me"/>
-    <file name="old-tour.css" crc="4157972196" ref="old-tour"/>
-    <file name="nomq_old-tour.css" crc="4103443049" ref="old-tour"/>
-    <file name="dump-n-bump.css" crc="4015575728" ref="dump-n-bump"/>
-    <file name="home.css" crc="3783455883" ref="home"/>
-    <file name="project-haven.css" crc="50367213" ref="project-haven"/>
-    <file name="temp.css" crc="258647112" ref="temp"/>
-    <file name="index.css" crc="466085884" ref="index"/>
-    <file name="kronos.css" crc="3815259436" ref="kronos"/>
-    <file name="master_a-master.css" crc="4212006984" ref="projects:contact:dump-n-bump:temp:home:about-me:project-haven:old-tour:miscellaneous:kronos:index:overview"/>
-    <file name="nomq_preview_master_a-master.css" crc="164456603" ref="projects:contact:temp:home:old-tour:index:miscellaneous:project-haven:about-me:dump-n-bump:kronos:overview"/>
-    <file name="projects.css" crc="494145083" ref="projects"/>
-    <file name="contact.css" crc="3846692655" ref="contact"/>
-    <file name="miscellaneous.css" crc="253127679" ref="miscellaneous"/>
-    <file name="overview.css" crc="4262885934" ref="overview"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="museutils.js" crc="3939489907" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="whatinput.js" crc="86476730" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="museconfig.js" crc="128606099" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="require.js" crc="4177726516" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="old-tour"/>
-    <file name="jquery.watch.js" crc="522499760" ref="temp"/>
-    <file name="webpro.js" crc="3856315280" ref="temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="touchswipe.js" crc="3888935200" ref="temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="project-haven:about-me:miscellaneous:projects:kronos"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="museutils.js" crc="3939489907" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="whatinput.js" crc="86476730" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="project-haven:about-me:kronos:miscellaneous:projects"/>
+    <file name="webpro.js" crc="3856315280" ref="project-haven:kronos:miscellaneous:projects"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="project-haven:kronos:miscellaneous:projects"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="project-haven:kronos:miscellaneous:projects"/>
+    <file name="touchswipe.js" crc="3888935200" ref="project-haven:kronos:miscellaneous:projects"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
+    <file name="require.js" crc="4177726516" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index"/>
   </folder>
   <folder name="images">
-    <file name="ppcrop.png" crc="4223827963" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="home:old-tour:temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="testbg_1_3.gif" crc="138553531" ref="home:overview" seo="true">
+    <file name="new logo256.png" crc="289196662" seo="true" ref="project-haven:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:index">
+      <caption webpage="project-haven" alt=""/>
+      <caption webpage="kronos" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="about-me" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="overview" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="gametodesign_5.gif" crc="83886350" seo="true" ref="old-tour">
-      <caption webpage="old-tour" alt=""/>
-      <caption webpage="old-tour" alt=""/>
-    </file>
-    <file name="multiplicator_2.gif" crc="3918183670" seo="true" ref="old-tour">
-      <caption webpage="old-tour" alt=""/>
-      <caption webpage="old-tour" alt=""/>
-    </file>
-    <file name="base-crop-u1798.jpg" crc="3838842640" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="bigpïcture-crop-u2147.jpg" crc="4014729790" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="closeupuse-crop-u2167.jpg" crc="3817180064" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="makingof-crop-u2187.jpg" crc="4103525603" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="temp:project-haven:projects:miscellaneous:kronos"/>
-    <file name="52287174_2003785306338130_8108014732830572544_n-crop-u802.jpg" crc="226230603" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="artboard 1-crop-u979.jpg" crc="3758349546" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="artboard 2-crop-u999.jpg" crc="75767637" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="team nudelsuppe - projet haven-crop-u1019.jpg" crc="407447714" seo="true" ref="temp">
-      <caption webpage="temp" alt=""/>
+      <caption webpage="dump-n-bump" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="chronovectoonce.gif" crc="380350622" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
@@ -151,78 +95,10 @@
     <file name="casque.jpg" crc="8873789" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="aaa.jpg" crc="356693792" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="casque1.jpg" crc="213553983" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="casque2.jpg" crc="4005824102" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="casque3.jpg" crc="373584096" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="xp.jpg" crc="3909471074" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="proto.jpg" crc="3929048801" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="userresearch.jpg" crc="4094792509" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="aaa2.jpg" crc="406688593" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="base.jpg" crc="4020452071" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="craft.jpg" crc="3915236023" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="polish.jpg" crc="210459450" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="use.jpg" crc="166270831" seo="true" ref="projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="fichier 3.png" crc="3862629694" seo="true" ref="home:old-tour:temp:project-haven:index:dump-n-bump:about-me:kronos:contact:miscellaneous:projects:overview">
-      <caption webpage="dump-n-bump" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="kronos" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="project-haven" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="old-tour" alt=""/>
-      <caption webpage="old-tour" alt=""/>
-      <caption webpage="overview" alt=""/>
-    </file>
-    <file name="c bon-crop-u7716.png" crc="4004599125" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="slide10.jpg" crc="4204157634" seo="true" ref="project-haven">
-      <caption webpage="project-haven" alt=""/>
-    </file>
     <file name="slide11.jpg" crc="4059470763" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="project-haven:kronos:miscellaneous:projects"/>
     <file name="slide12.jpg" crc="3838216844" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
@@ -301,290 +177,33 @@
     <file name="slide38.jpg" crc="4142973036" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="final.png" crc="4224010081" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="sketches.png" crc="408644676" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="materials.png" crc="470421438" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="tech pack.png" crc="522915305" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="youtube-crop-u10406.png" crc="95812162" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="stats.png" crc="310468518" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="post its.png" crc="390298772" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="workshop.png" crc="3785819166" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 1.png" crc="4192057695" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="mockup app 2.jpg" crc="4181599356" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 1_1.gif" crc="11073091" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 2.png" crc="3761922099" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="mockup app 1.jpg" crc="521050883" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 2_1.gif" crc="421788762" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="concept.png" crc="3952940900" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="final-crop-u10387.png" crc="319862306" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="empathy map-crop-u10377.png" crc="4208588687" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="sketches-crop-u10391.png" crc="4264482721" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="post its-crop-u10383.png" crc="207400595" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="concept-crop-u10363.png" crc="3930745481" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="mockups-crop-u10367.png" crc="480782567" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="workshop-crop-u10365.png" crc="4145602017" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="materials-crop-u10375.png" crc="4287940269" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 1-crop-u10379.png" crc="3812322788" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="tech pack-crop-u10395.png" crc="388896024" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="mockup app 2-crop-u10373.jpg" crc="325309098" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="app 2-crop-u10369.png" crc="361703200" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="stats-crop-u10397.png" crc="318395721" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="mockup app 1-crop-u10393.jpg" crc="4177040998" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m47s017.jpg" crc="3797760796" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h14m55s774.jpg" crc="420954251" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m07s127.jpg" crc="278461458" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m26s081.jpg" crc="256995724" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m47s707.jpg" crc="218734510" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h14m22s868.jpg" crc="535423747" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h08m45s772.jpg" crc="3782147551" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m19s113.jpg" crc="4130117638" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h15m29s479.jpg" crc="4058643235" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h15m52s196.jpg" crc="107604236" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h16m11s102.jpg" crc="4154349035" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m30s802.jpg" crc="24001066" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m38s811.jpg" crc="463810505" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m25s231.jpg" crc="399407813" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m38s412.jpg" crc="177622202" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m47s017-crop-u11295.jpg" crc="3890888975" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h15m29s479-crop-u11415.jpg" crc="4139857343" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h14m55s774-crop-u11395.jpg" crc="3926872211" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h15m52s196-crop-u11435.jpg" crc="497585731" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m07s127-crop-u11315.jpg" crc="200453004" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h16m11s102-crop-u11455.jpg" crc="144382144" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m26s081-crop-u11335.jpg" crc="3849764367" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m30s802-crop-u11255.jpg" crc="3893681005" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h12m47s707-crop-u11355.jpg" crc="426142069" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h10m38s811-crop-u11275.jpg" crc="63733073" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h14m22s868-crop-u11375.jpg" crc="4049981211" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m25s231-crop-u11215.jpg" crc="4008320334" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h08m45s772-crop-u10833.jpg" crc="464677375" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m38s412-crop-u11235.jpg" crc="409520670" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="vlcsnap-2020-11-15-17h09m19s113-crop-u11195.jpg" crc="170651334" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="cvvo.jpg" crc="4014253734" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="cvvf.jpg" crc="4027544295" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="mockups.png" crc="530449204" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="notice.png" crc="307418346" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="empathy map.png" crc="156958686" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="notice78x54.png" crc="236867006" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="youtube74x54.png" crc="524876449" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="bigpicture.jpg" crc="4243360322" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="presentation - methodo isd9.jpg" crc="4127211473" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="presentation - methodo isd10.jpg" crc="401757131" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="presentation - methodo isd13.jpg" crc="4007207814" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="presentation - methodo isd17.jpg" crc="40765290" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="presentation - methodo isd22.jpg" crc="3973985234" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="en chantier.png" crc="133774410" seo="true" ref="dump-n-bump:index">
-      <caption webpage="dump-n-bump" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="kronos" alt=""/>
+    <file name="slide10.jpg" crc="4204157634" seo="true" ref="project-haven">
       <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="plan de travail 1.png" crc="4226058826" ref="project-haven:about-me:miscellaneous:projects:kronos">
+    <file name="loading.gif" crc="3815509949" ref="project-haven:kronos:miscellaneous:projects"/>
+    <file name="plan de travail 1.png" crc="4226058826" ref="project-haven:about-me:kronos:miscellaneous:projects">
+      <caption webpage="project-haven" alt=""/>
       <caption webpage="kronos" alt=""/>
       <caption webpage="miscellaneous" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="project-haven" alt=""/>
     </file>
-    <file name="sqd.png" crc="4141419865" ref="project-haven:about-me:miscellaneous:projects:kronos">
+    <file name="sqd.png" crc="4141419865" ref="project-haven:about-me:kronos:miscellaneous:projects">
+      <caption webpage="project-haven" alt=""/>
       <caption webpage="kronos" alt=""/>
       <caption webpage="miscellaneous" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="project-haven" alt=""/>
-    </file>
-    <file name="timetrouble.jpg" crc="176121727" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="eclatefinal.png" crc="185570917" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="explo002.jpg" crc="499545012" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="gard002.jpg" crc="4206144317" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="grootetigre002.png" crc="259867122" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="menu.jpg" crc="405873150" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="gif1.gif" crc="3913238293" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="madeby.jpg" crc="3767793522" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="gif1 copier 01_1.gif" crc="8347434" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="gif1 copier 02_1.gif" crc="4142104589" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="menu-crop-u13824.jpg" crc="142067604" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="madeby-crop-u13804.jpg" crc="3761484822" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
-    </file>
-    <file name="digitalportrait.jpg" crc="3807606886" seo="true" ref="miscellaneous">
-      <caption webpage="miscellaneous" alt=""/>
     </file>
     <file name="chronorouge.gif" crc="344192684" seo="true" ref="dump-n-bump:kronos">
       <caption webpage="dump-n-bump" alt=""/>
       <caption webpage="kronos" alt=""/>
+    </file>
+    <file name="en chantier.png" crc="133774410" seo="true" ref="dump-n-bump">
+      <caption webpage="dump-n-bump" alt=""/>
+    </file>
+    <file name="c bon-crop-u7716.png" crc="4004599125" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="finikronos.png" crc="464425767" seo="true" ref="kronos">
       <caption webpage="kronos" alt=""/>
@@ -754,26 +373,315 @@
     <file name="louiskronos.gif" crc="3882205623" seo="true" ref="kronos">
       <caption webpage="kronos" alt=""/>
     </file>
+    <file name="final.png" crc="4224010081" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="sketches.png" crc="408644676" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockups.png" crc="530449204" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="materials.png" crc="470421438" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="tech pack.png" crc="522915305" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="notice.png" crc="307418346" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="youtube-crop-u10406.png" crc="95812162" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="stats.png" crc="310468518" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="empathy map.png" crc="156958686" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="post its.png" crc="390298772" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="workshop.png" crc="3785819166" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 1.png" crc="4192057695" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockup app 2.jpg" crc="4181599356" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 1_1.gif" crc="11073091" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 2.png" crc="3761922099" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockup app 1.jpg" crc="521050883" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 2_1.gif" crc="421788762" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="concept.png" crc="3952940900" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="final-crop-u10387.png" crc="319862306" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="empathy map-crop-u10377.png" crc="4208588687" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="sketches-crop-u10391.png" crc="4264482721" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="post its-crop-u10383.png" crc="207400595" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="concept-crop-u10363.png" crc="3930745481" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockups-crop-u10367.png" crc="480782567" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="workshop-crop-u10365.png" crc="4145602017" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="materials-crop-u10375.png" crc="4287940269" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 1-crop-u10379.png" crc="3812322788" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="tech pack-crop-u10395.png" crc="388896024" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockup app 2-crop-u10373.jpg" crc="325309098" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="notice78x54.png" crc="236867006" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="youtube74x54.png" crc="524876449" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="app 2-crop-u10369.png" crc="361703200" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="stats-crop-u10397.png" crc="318395721" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="mockup app 1-crop-u10393.jpg" crc="4177040998" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m47s017.jpg" crc="3797760796" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h14m55s774.jpg" crc="420954251" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m07s127.jpg" crc="278461458" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m26s081.jpg" crc="256995724" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m47s707.jpg" crc="218734510" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h14m22s868.jpg" crc="535423747" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h08m45s772.jpg" crc="3782147551" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m19s113.jpg" crc="4130117638" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h15m29s479.jpg" crc="4058643235" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h15m52s196.jpg" crc="107604236" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h16m11s102.jpg" crc="4154349035" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m30s802.jpg" crc="24001066" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m38s811.jpg" crc="463810505" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m25s231.jpg" crc="399407813" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m38s412.jpg" crc="177622202" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m47s017-crop-u11295.jpg" crc="3890888975" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h15m29s479-crop-u11415.jpg" crc="4139857343" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h14m55s774-crop-u11395.jpg" crc="3926872211" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h15m52s196-crop-u11435.jpg" crc="497585731" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m07s127-crop-u11315.jpg" crc="200453004" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h16m11s102-crop-u11455.jpg" crc="144382144" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m26s081-crop-u11335.jpg" crc="3849764367" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m30s802-crop-u11255.jpg" crc="3893681005" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h12m47s707-crop-u11355.jpg" crc="426142069" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h10m38s811-crop-u11275.jpg" crc="63733073" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h14m22s868-crop-u11375.jpg" crc="4049981211" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m25s231-crop-u11215.jpg" crc="4008320334" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h08m45s772-crop-u10833.jpg" crc="464677375" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m38s412-crop-u11235.jpg" crc="409520670" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="vlcsnap-2020-11-15-17h09m19s113-crop-u11195.jpg" crc="170651334" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="bigpicture.jpg" crc="4243360322" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="presentation - methodo isd9.jpg" crc="4127211473" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="presentation - methodo isd10.jpg" crc="401757131" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="presentation - methodo isd13.jpg" crc="4007207814" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="presentation - methodo isd17.jpg" crc="40765290" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="presentation - methodo isd22.jpg" crc="3973985234" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="timetrouble.jpg" crc="176121727" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="eclatefinal.png" crc="185570917" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="explo002.jpg" crc="499545012" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gard002.jpg" crc="4206144317" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="grootetigre002.png" crc="259867122" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="menu.jpg" crc="405873150" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1.gif" crc="3913238293" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="madeby.jpg" crc="3767793522" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1 copier 01_1.gif" crc="8347434" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="gif1 copier 02_1.gif" crc="4142104589" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="menu-crop-u13824.jpg" crc="142067604" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="madeby-crop-u13804.jpg" crc="3761484822" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
+    <file name="digitalportrait.jpg" crc="3807606886" seo="true" ref="miscellaneous">
+      <caption webpage="miscellaneous" alt=""/>
+    </file>
     <file name="mapempathie480x480.png" crc="4212591016" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="personna.png" crc="376411042" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
+    <file name="proto.jpg" crc="3929048801" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="userresearch.jpg" crc="4094792509" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
     <file name="vpc.png" crc="120336663" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
+    <file name="aaa.jpg" crc="356693792" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="casque1.jpg" crc="213553983" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="casque2.jpg" crc="4005824102" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="casque3.jpg" crc="373584096" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="xp.jpg" crc="3909471074" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="aaa2.jpg" crc="406688593" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="base.jpg" crc="4020452071" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="craft.jpg" crc="3915236023" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="polish.jpg" crc="210459450" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="use.jpg" crc="166270831" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="new logo512.png" crc="3842592876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="home.html" crc="3937101146" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="old-tour.html" crc="497272740" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="temp.html" crc="76589023" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="project-haven.html" crc="3770862714" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="index.html" crc="4180661035" seo="true" mt="1606317694025" redirect="true"/>
-  <file name="dump-n-bump.html" crc="327037525" seo="true" mt="1606318041232" redirect="true"/>
-  <file name="about-me.html" crc="3852043423" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="kronos.html" crc="4068150923" seo="true" mt="1606318584153" redirect="true"/>
-  <file name="contact.html" crc="4227622568" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="miscellaneous.html" crc="3998343913" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="projects.html" crc="4126294132" seo="true" mt="1606317694022" redirect="true"/>
-  <file name="overview.html" crc="411675711" seo="true" mt="1606317694026" redirect="true"/>
+  <file name="project-haven.html" crc="3811463841" seo="true" mt="1687960206981" redirect="true"/>
+  <file name="dump-n-bump.html" crc="447694753" seo="true" mt="1687960206981" redirect="true"/>
+  <file name="about-me.html" crc="4054617363" seo="true" mt="1687960206981" redirect="true"/>
+  <file name="kronos.html" crc="3934523190" seo="true" mt="1687960327117" redirect="true"/>
+  <file name="contact.html" crc="4245882819" seo="true" mt="1687960206981" redirect="true"/>
+  <file name="miscellaneous.html" crc="4105926444" seo="true" mt="1687960206981" redirect="true"/>
+  <file name="projects.html" crc="3863796829" seo="true" mt="1687960417539" redirect="true"/>
+  <file name="index.html" crc="431724039" seo="true" mt="1687960206981" redirect="true"/>
 </manifest>
